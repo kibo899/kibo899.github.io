@@ -1,0 +1,37 @@
+       <div class="bg-parallax" data-jarallax='{"speed": 0.2}' style='background-image: url("images/bg1.jpg")'>
+            <div class="parallax-overlay"></div>
+            <div class="pt90 container pb20">
+                <div class="row align-items-center">
+                    <div class="col-md-4 ml-auto mr-auto mb40 wow bounceInRight" data-wow-delay=".15s">                         
+                        <div class="carousel-mobile-slider">  
+                            <div class="mobile-device">
+                                <amp-img src="images/slide-phone.png" alt="" class="img-fluid" height="551" width="280"></amp-img>
+                            </div>
+                            <amp-carousel class="owl-carousel owl-theme owl-phone carousel-iphone" height="565" width="280">    
+                                <div class="item">
+                                    <amp-img src="images/dabome-app-1.png" alt="" height="410" width="232"></amp-img>
+                                </div>                               
+                            </amp-carousel>
+                        
+                    </div>
+                    </div>
+                    <div class="col-md-6 mr-auto mb40">                       
+                        <h3 class="font300 h1 text-black">{% t main.howToSectionhowtoget.howtogettitle %}</h3>
+                        {% for howtoitemmobapp in site.data.howto_section_mobapp.howtosection %}
+                        <ul class="list-unstyled text-white-gray">
+                            <li>
+                               <div class="feature-icon cleafix">
+                               
+                            <i class="{{ howtoitemmobapp.iclass }}"></i>
+                            <div class="oHidden">
+                                <h4 class="{{ howtoitemmobapp.h4class }}">{% t howtoitemmobapp.h4item %}</h4>
+                                <p>{% t howtoitemmobapp.paragraph %}</p>                                
+                            </div>                            
+                        </div>                           
+                            </li>                             
+                        </ul>
+                        {% endfor %} 
+                    </div>
+                </div>
+            </div>
+        </div>

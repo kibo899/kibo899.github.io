@@ -1,0 +1,489 @@
+main:
+ navbarSection:
+    title: Dabome
+    home: Home
+    features: Features
+    how_it_works: How it works
+    pricing: Pricing
+    contact: Contact    
+    dabomeapp: Dabome app
+    btnlogin: Login
+    download: Download
+    language: English  
+    flag: us.png
+    
+# Dabomewebsite translated text start here
+
+ sectionHome:
+    dabomeplatformsh: Dabome platform
+    thebestloyaltyprogramsh: The best loyalty program
+    learnmoresh: Learn more
+    registernowsh: Register now    
+    
+ sectionFeatures:   
+    loyaltyprogram: The Best Loyalty program
+    discountsforloyal: Discounts for loyal customers in a more modern and efficient way than conventional loyalty program
+    dabomeisapowerful: Dabome is a powerful tool that benefit both customers and vendors. Loyal customers will always be able to count on discounts and prizes throughout Dabome system. In addition to prizes for loyal customers, vendors could also create coupons that always come to the right hands. Their actions, events, promotions, sales, campaigns, news can be set very easily, (the same as on Facebook or Twitter), and Dabome platform will present it in a smart way. <b>Dabome is not only for loyalty cards and marketing, it is also a modern way to connect vendors and customer.</b>    
+    discountforloyalcustomer: Discount for loyal customer
+    simple: Simple, understandable, effective! 
+    ouralgorithm: Our algorithm for rewarding customer loyalty, is simple and yet smart. It is easy for customers to understand how to obtain discount and some kind of prize, without complicated point calculation and collection. The system is flexible to adjust the discount to their needs. Read more about customer <a href="mobapp/index-us.html" clsss="green">Dabome </a> mobile application. 
+    
+ featuresTitle:
+    featurescontent: Features
+    
+ featuresHeader:
+    noinitialinvestment: No initial investment
+    easytouse: Easy to use
+    socialnetworks: Social networks
+    cooperation: Cooperation with other businesses
+    customercare: Customer care
+    fastuser: Fast user verification
+    maximumsafe: Maximum safe
+    customertargeting: Customer targeting
+    statisticsanalasys: Statistics and analasys
+    
+ featuresParagraph:
+    itisenough: It is enough to register on our web-site and we will provide training. You start to work immediately!
+    trainingforemployees: Training for employees at the counter takes less than 30 minutes. It is easier for your buyers and they have more possibilities by using Dabome app.
+    dabomehasitsown: Dabome has its own social network, so customer can trade a coupon with any of his/her friend in contact list who has Dabome app. Besides Dabome you can use other social networks such as Facebook, Twitter, Viber, Google+ ...
+    arrangeamutual: Arrange a mutual cooperation with others. Create coupons and organise with other merchant to share.
+    dabomegets: Dabome gets you closer to your customers, gives you opportunity to know more about their needs and habits. You reward them and they will reward you!
+    whenacustomercomes: When a customer comes to the counter he has already been verified by using Dabome application or SMS. Minimum waste of time at the counter. No more plastic cards that usually get forgoten. 
+    allinformationabout: All information about your company, your transactions, and customers are absolutely safe, and the responsibility for the security of the data refers to dabome.com.
+    dabomeremindsits: Dabome reminds its customers to put as much information about themselves and their interests so that the customer can get the right information at the right time about promotions.
+    seehowmanyusers: See how many users with discounts you have, according to the location, period. Check how many coupons have been distributed and how much has been realised. 
+    
+ sectionOtherFeatures:
+    advantagesdabome: Advantages you gain by using dabome
+    byusingdabome: By using Dabome platform you are getting a modern loyalty system that will make you stand out from other companies. 
+    
+ benefitsItemTitle:
+    cooperation: Cooperation 
+    discounts: Discounts
+    socialnetworks: Social networks 
+    reports: Reports 
+    
+ cooperationList:    
+    collaboratewith: Collaborate with other merchants
+    inagreementwith: In agreement with other Merchants achieve mutual benefit
+    arrangeamutual: Arrange a mutual cooperation with other companies. Create coupons and organise with other merchants to share them. If you can not find suitable partners for cross-merchant loyalty, Dabome will do it for you. Whether you are a big company or a small shop, soon you will feel the benefits of the synergy. <b> Your coupons will get in the right hands and you will get another loyal customer.</b>
+    
+ discountsList:
+    createpromotions: Create promotions for different target groups
+    dabomereminds: Dabome reminds its customers to put as much information about themselves and their interests that customers can get the right information at the right time about promotions. It is easier to create your target group. For example, females, 25-35 years of age living up to 10km from your location. Dabome uses special algorithms to informe members about your offers.
+    
+ socialnetworksList:
+    socialnetworks: Social networks, new style of communication
+    recommendation: Recommendation to your products and services is the highest when your customer recommends you to another customer. Dabome has its own social network, so customer can trade a coupon with any of his/her friend in contact list who has Dabome app. Your customers can forward promotions and campaigns to their friends using other social networks. Facebook, Instaram, Tweeter, G+, Viber, Hangsout, WhatsUp whatever your customer uses is a great recommendation for your business and potentialy a new loyal customer. 
+    
+ reportsList:
+    statisticsanalysis: Statistics and analysis 
+    improvingbusiness: Improving the business, follow the number increase of your loyal customers
+    seehowmany: See how many you have users with discounts, according location, period. Check how many coupons distributed and how much has been realised. If you have any specific requirements for reporting, Dabome team will listen to you and find a solution for you. 
+    
+ sectionProcessServices:    
+    howitworks: How it works?
+    
+ howItWorksHeader:
+    registeryourbusiness: Register your business
+    communicateyourcustomers: Communicate with your customers
+    getcustomers: Get new customers
+    learnmoreabout: Learn more about your customers  
+    
+ howItWorksRegister:
+    registerheader: Register your business
+    
+ howItWorksRegisterList:
+    fillin: Fill in the form with your company information
+    setthediscount: Set the discount that suits your business
+    setyourlocations: Set your locations
+    
+ howItWorksRegisterSubtitle:    
+    subtitleyourarenowready: Your are now ready and you have your own loyalty system.
+    
+ howItWorksRegisterParagraph:   
+    paragraphyourcompany: Your company is available to Dabome users.
+    
+ howItWorksAtext:    
+    atext: Register now   
+    
+ howItWorksCommunicate:
+    communicatewithyourcustomersheader: Communicate with your customers
+    
+ howItWorksheadtitle:    
+    headtitleallyouneed: All you need for verification is a phone. The fastest way to get a discount is by using Dabome app.   
+    
+ howItWorksCommunicateList:
+    scanimages: Scan images
+    qrcode: QR code
+    musicrecognition: Music recognition
+    smsvalidation: SMS Validation 
+    
+ howItWorksGetNewCustomers:
+    headergetnewcustomers: Get new customers  
+    
+ howItWorksGetNewCustomersList:
+    customertargeting: Customer targeting
+    createpromotionsnews: Create promotions and news 
+    scsocialnetworks: Social networks  
+    
+ howItWorksCustomersheader:
+    learnmorecustomersheader: Learn more about your customers    
+    
+ howItWorksLearnMoreCustomers:       
+    trackhabitsyourcustomers: Track the habits of your customers
+    findthediscounts: Find the discounts that your customers like the most
+    promoteyourbusiness: Promote your business by creating discounts that your customers will use in the best way 
+    
+ sectionverification:
+    customerverification: CUSTOMER VERIFICATION IS ALSO YOUR ADVERTISEMENT
+    nomoreplasticcards: No more plastic cards. Often customers forget their loyalty card or simply have no more room in a wallet. The customer appears into your system via SMS, QR code, scanning posters / stickers or simple by scanning the music played in your location. Adjust to your needs. <a href="http://localhost:4000/index-mobileapp.html" clsss="green">Dabome Mobile application </a> is a window into your customer service, discounts, coupons, news, also as a tool for verification in order to obtain some of those services offered by you. 
+    
+ textMessageContent:
+    textmessageheader1: Text message
+    smsheader2: SMS
+    customerreceivetext: Customer receive text message (SMS) with PIN code from Dabome server for verification. In this way Dabome is available to customers who do not have smartphones!
+    
+ qrcodeContent:
+    qrheader1: QR code
+    qrcodeheader2: QR code
+    customerisverifiedtext: Customer is verified by scanning the QR code and appears automatically in your application. You can print QR code on employee t-shirt, coffe cup ...    
+    
+ printPromoContent:
+    printheader1: Print <br/> promo poster, ads
+    printheader2: Print
+    addinvisibletext: Add invisible code on your ad - poster for verification. Additionally charged for Encoding print, check pricing! 
+    
+ musicPlayListContent:
+    musicheader1: Music <br/> Play list 
+    musicheader2: Music
+    dabomeappcantext: Dabome app can recognize encoded music or music playlist. Code is included into your music and can be scanned only with Dabome app. Encoding music is additionally charged, check pricing! 
+    
+ sectionPricing:
+    pricingtitle: Pricing
+    
+ startPlan:
+    startplanheader: Start plan
+    classpricestartplan: Free!
+    
+ startPlanListing:
+    maximumone: Maximum One Location
+    maximum100customers: Maximum 100 Customers or 500 Transactions
+    maximum2employees: Maximum 2 employees
+    alldiscouttypes: all discout types included    
+    checkinwithencoded: Check-in with encoded print/music*, SMS, QR code
+    basicreports: Basic reports included
+    2freeannouncment: 2 free announcment of news, events or campaigns
+    2freesmart: 2 free smart coupons
+    alldabomemembers: All Dabome members included
+    cooperationwithlocal: Cooperation with local businesses included
+    minimum12month: Minimum 12 month contract     
+    
+ standardPlan:
+    standardplanheader: Standard plan
+    classpricestandardplan: <sup>USD</sup>16.99<sub>/PM </sub>
+    
+ standardPlanListing:
+    onelocationincluded: One location included
+    eachadditionallocation: Each additional location is $12.00 per month
+    unlimitedemployees: Unlimited employees
+    alldiscouttypes: All discout types included
+    checkinwith: Check-in with encoded print/music*, SMS, QR code
+    basicreports: Basic reports included
+    2additional: 2 additional reports on demand
+    4freeannouncments: 4 free announcment of news, events or campaigns
+    8freesmart: 8 free smart coupons
+    alldabomemembers: All Dabome members included
+    cooperationwithlocal: Cooperation with local businesses included
+    minimum12: Minimum 12 month contract
+    30discount: 30% discount on 24 month contract
+    
+ enterprisesPlan:
+    enterprisesheader: Enterprises
+    classpriceenterprises: Contact us!
+    
+ enterprisesListing:
+    unlimitedlocations: Unlimited locations
+    unlimitedemployees: Unlimited employees
+    alldiscouttypesincluded: All discout types included
+    checkwithencodedprint: Check-in with encoded print/music*, SMS, QR code
+    basicreportsincluded: Basic reports included
+    additionalreportson: Additional reports on demand
+    8freeannouncmentofnews: 8 free announcment of news, events or campaigns
+    48freesmartcoupons: 48 free smart coupons
+    aldabomemembersincluded: All Dabome members included
+    cooperationwith: Cooperation with other businesses included
+    dabomeapiavailable: Dabome API available
+    integrationwith: Integration with third-party applications
+    whitelabel: White label system available
+    minimum12monthcontract: Minimum 12 month contract    
+    
+ starPricing:    
+    encodedprint: Encoded print and/or music is necessry for smart phone check-in. Invisible code will be integrate into your print or music (play list). Service for each encoding will be charge one-time $50 per annum.
+    
+ specialPromotionTitle:
+    specialpromotion: Special promotion - First 3 months are free !!!    
+    
+ sectionContact:
+    contacttitle: Contact
+    contactsubtitle: If you have any questions, feel free to send us a message.
+    nametitle: Name....
+    emailaddresstitle: Email address....
+    messagetitle: Message....
+    sendbutton: Send        
+    
+ footerSection:
+    dabomefootertitle: Dabome
+    dabfotsec: Dabome is not only for loyalty cards and marketing, also is contemporary way to connect merchandiser and customer.
+    registernowbtn: Register now
+    
+ contactSectionFooter:
+    contactheaderfooter: Contact us
+    
+ footerSocialSection:
+    socialsectiontitle: Follow us    
+    
+ footerBottomSection:
+    homebottomtitle: Home
+    fetauresbottomtitle: Features
+    termsbottomtitle: Terms
+    privacybottomtitle: Privacy
+    
+# Dabomewebsite transleted text end here
+    
+# MobApp transleted text start here
+
+ homeSectionTitleItem:
+    welcomedabome: Welcome To Dabome Mobile APP
+    modern: Modern loyalty system in your pocket!
+    explore: Explore more
+    downloadnow: Download now
+    
+ featuresSectionTitle:
+    featurestitle: Features
+    
+ feturesSectionLeft:    
+    h3item1: Discounts
+    paragraph1: By using Dabome application you become a loyalty customer and can receive discounts and actions that Dabome companies offer, whether they are fixed discounts or a gift after a certain number of purchases.
+    h3item2: Share with friends
+    paragraph2: You can invite your firends to use Dabome application by using Dabome social network or any other network you might be using or you can send them a gift cupon by using our application.
+    h3item3: Locations
+    paragraph3: You will have an easy access to information about the locations of all Dabome companies.
+    
+ feturesSectionRight:    
+    h3item1: Quick verification
+    paragraph1: In order to verify you can scan a company poster, QR code or use Dabome application to recognize music at the location of Dabome company. By the time you come to the cash register you are ready to recieve a discount.    
+    h3item2: Dabome companies
+    paragraph2: Besides Dabome companies whose loyalty customer you are, you can see all the other companies that use Dabome platform at any time and become their loyalty user.
+    h3item3: News
+    paragraph3: You will always be informed of promotions and discounts offered by Dabome companies.
+    
+ howToSectionhowtoget:
+    howtogettitle: How to get your discount?
+    
+ howToSection:
+    h4item1: Fixed discounts
+    paragraph1: Find poster, image or QR code to scan with Dabome app and get reward. Receive a discount on products that you can buy at Dabome companies.
+    h4item2: Loyalty cards
+    paragraph2: With loyalty cards you can recive a discount or get a gift after a certain number of purchases.
+    h4item3: Gift cupons
+    paragraph3: Surprise your friends by sending them a gift cupon for their favourite company by using Dabome social network.
+    
+ modernLoyaltySectionItemTitle:
+    modernloyaltysystem: Modern loyalty system that fits in your pocket
+    
+ modernLoyaltySectionItem:    
+    paragraph1:  Dabome application is a loyalty system that allows you to carry all your loyalty cards with you at all times. Without plastic loyalty cards that offten get forgoten or lost, a smart phone is all you need to recieve a discount at you favorite companies.
+    paragraph2: After verification in one of the simple ways you become a loyalty user and gain the possibility to recieve discounts at that company.
+    paragraph3: You can always get an information about promotions and discounts, about other companies that use Dabome platform and their locations.
+    paragraph4: By using Dabome social network you can invite your friends to use Dabome application or send them a gift.
+    
+ screenshotSection:
+    h3class: Application
+    
+ downloadSectionTitle:
+    h3title: Download App Now
+    h2title: Available at App Store and Play Store
+    comingsoon: Coming soon for iPhone!
+ 
+ footerSectionMobApp:
+    followus: Follow us
+    
+ contactSectionMobApp:
+    callus: Call Us
+    paragraph: "+38169615029"
+    mailus: Mail Us
+    paragraph1: info@mnocompany.com
+    findus: Find Us MNO ltd
+    paragraph2: Majke Jevrosime 28, Beograd
+    
+ footernavbar:
+    home: Home
+    features: Features
+    terms: Terms
+    privacy: Privacy 
+    
+ # MobApp transleted text end here  
+ 
+ #terms and privacy translated text start here
+    
+    
+ privacycontent: 
+    welcometothedabome: Welcome to the Dabome Privacy Policy
+    whenyouuse: When you use Google services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important, we hope you will take time to read it carefully.
+    title1: Privacy Policy
+    therearemany: There are many different ways you can use our services – to search for and share information, to communicate with customers or other companies or to create new content, ads, discounts. When you share information with us, for example by creating a Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with customers or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+    wehavetrideto: We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to us so whether you are new to Dabome or a long-time user, please do take the time to get to know our practices – and if you have any questions contact us
+    ourprivacypolicy: Our Privacy Policy explains
+ toc1List:    
+    page1: What information we collect and why we collect it.
+    page2: How we use that information.
+    page3: The choices we offer, including how to access and update information.
+    
+ privacycontentToc6:
+    informationwecollecttitle: Information we collect
+    wecollectinf: We collect information to provide better services to all of our users – from figuring out basic stuff like your company name and locations, services or products you offer, to more complex things like discounts, news, events you’ll find most useful.
+ toc8List:
+    formoreinformation: For more information on how you can access information that is associated with Dabome account, and manage them and remove them, are available to you in the application on each of functionality and service you can find on "Help" option on each page.
+       
+ toc6List:
+    wecollectfollowing: We collect information in the following ways 
+    page1: <b>Information you give us.</b> For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for information, like your company name, email address, telephone number address, country and city ,identification number of your company as well as a tax identification number. If you want to take full advantage of our services, we might also ask you to fill in information about your retail outlets, their locations and contacts, as well as data on workers which you have assigned privileges to use Dabome services.    
+    page2: <b>Information we get from your use of our services.</b> We collect information about the services that you use and how you use them, like when you list or create discounts, coupons, campaigns or other Dabome services available in that moment. This information includes    
+ toc6SubList:    
+    page1: <b>Device information</b>
+    text1: We collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Dabome may associate your device identifiers or phone number with your Google Account.
+    page2: <b>Log information</b>
+    text2: When you use our services or view content provided by Dabome, we automatically collect and store certain information in server logs. This includes
+    page3: <b>Location information</b>
+    text3: When you use Dabome services, we may collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide Google with information on nearby devices, Wi-Fi access points and cell towers.    
+    page4: <b>Unique application numbers</b>
+    text4: Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Dabome when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.    
+    page5: <b>Local storage</b>
+    text5: We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage(including HTML 5) and application data caches.
+    page6: <b>Cookies and similar technologies</b>
+    text6: We and our partners use various technologies to collect and store information when you visit a Google service, and this may include using cookies or similar technologies to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites.    
+ toc6SubSubList:
+    page1: details of how you used our service, such as your search queries.
+    page2: Internet protocol address.
+    page3: device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+    page4: cookies that may uniquely identify your browser or your Google Account.
+    
+ toc9List:
+    title1: How we use information we collect
+    subtitle1: We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Dabome and our users We also use this information to offer you tailored content – like giving you more relevant search results and ads.
+    subtitle2: We may use the name of your comapny and other information you provide for your Dabome account across all of the services we offer that require a Dabome Account. If other users already have contact with your account or other information that identifies you, we may show them your publicly visible information such as business name, location name, the photos, logo etc.
+    subtitle3: When you contact Dabome, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+    subtitle4: We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with >sensitive categories, such as those based on race, religion, sexual orientation or health.
+    subtitle5: Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection.
+    subtitle6: We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+    subtitle7: Dabome processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
+    title2: Transparency and choice
+    subtitle8: People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used.
+    subtitle9: You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
+    title3: Information you share
+    subtitle10: Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google.
+    title4: Accessing and updating your personal information
+    subtitle11: Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+    subtitle12: We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
+    subtitle13: Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+ 
+ toc12list:
+    title: Information we share
+    text1: We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies
+    text2: We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
+    text3: If Dabome is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+ toc12List2:
+    page1: <b>With your consent</b>
+    text1: We will share your information with companies, organizations or individuals outside of Dabome when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.
+    page2: <b>With domain administrators</b>
+    text2: If Dabome account is managed by our vendor, distributor or partner who sold you Dabome service (for example, a company or individual who has a cooperation agreement with Dabome), then the vendors who provide user support to your organization will have access to information about your Dabome account (including e-mail address and other information). Dabome salesman may be able to
+    page3: <b>For external processing</b>
+    text3: We provide information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+    page4: <b>For legal reasons</b>
+    text4: We will share personal information with companies, organizations or individuals outside of Dabome if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to 
+    text5: If you have additional questions about controls and access to information has a Seller through which you purchased Dabome services please contact us.
+ toc12Lisst3:
+    page1: view statistics regarding your account, like statistics regarding number of verified customer using Dabome app.
+    page2: change your account password.
+    page3: suspend or terminate your account access.
+    page4: access or retain information stored as part of your account.
+    page5: receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request.   
+ toc12Lisst4:
+    page1: meet any applicable law, regulation, legal process or enforceable governmental request.
+    page2: enforce applicable Terms of Service, including investigation of potential violations.
+    page3: detect, prevent, or otherwise address fraud, security or technical issues.
+    page4: protect against harm to the rights, property or safety of Dabome, our users or the public as required or permitted by law.
+    
+ toc13List:
+    title1: Information security
+    text1: We work hard to protect Dabome and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular
+    title2: When this Privacy Policy applies
+    text2: Our Privacy Policy applies to all of the services offered by Dabome and MNO ltd Comany and its affiliates, including our authorized salesmen, services Dabome provides on Mobile devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+    text3: apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+    title3: Compliance and cooperation with regulatory authorities
+    text4: We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks, including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+    title4: Changes
+    text5: Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+    btnbacktotop: Back to top
+ toc13List2:
+    list1: We encrypt many of our services using SSL.
+    list2: We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+    list3: We restrict access to personal information to Dabome employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+    
+ toc00List:
+    title1: Dabome Terms of Service
+    title2: Welcome to Dabome!
+    text1: Thanks for using our products and services (“Services”). The Services are provided by MNO ltd. (“MNO” or "Dabome"), located at Majke Jevrosime 28, 11000 Belgrade , Serbia.
+    text2: By using our Services, you are agreeing to these terms. Please read them carefully.
+    text3: Our Services are very diverse, so sometimes additional terms or product requirements (including age requirements) may apply. Additional terms will be available with the relevant Services, and those additional terms become part of your agreement with us if you use those Services.
+    title3: Using our Services
+    text4: You must follow any policies made available to you within the Services.
+    text5: Don’t misuse our Services. For example, don’t interfere with our Services or try to access them using a method other than the interface and the instructions that we provide. You may use our Services only as permitted by law, including applicable export and re-export control laws and regulations. We may suspend or stop providing our Services to you if you do not comply with our terms or policies or if we are investigating suspected misconduct.
+    text6: Using our Services does not give you ownership of any intellectual property rights in our Services or the content you access. You may not use content from our Services unless you obtain permission from its owner or are otherwise permitted by law. These terms do not grant you the right to use any branding or logos used in our Services. Don’t remove, obscure, or alter any legal notices displayed in or along with our Services.
+    text7: Our Services display some content that is not Dabome’s. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content that we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please don’t assume that we do.
+    text8: In connection with your use of the Services, we may send you service announcements, administrative messages, and other information. You may opt out of some of those communications.
+    text9: Some of our Services are available on mobile devices. Do not use such Services in a way that distracts you and prevents you from obeying traffic or safety laws.
+    title4: Your Dabome Account
+    text10: Dabome Account is required in order to use our Services. You may create your own Dabome Account, or your Dabome Account may be assigned to you by an administrator, such as your employer ("merchant") or other institution or society. If you are using a Dabome Account assigned to you by an administrator or merchant, different or additional terms may apply and your administrator may be able to access or disable your account.
+    text11: To protect your Dabome Account, keep your password confidential. You are responsible for the activity that happens on or through your Dabome Account. Try not to reuse your Dabome Account password on third-party applications. If you learn of any unauthorized use of your password or Dabome Account, follow these instructions.
+    title5: Privacy and Copyright Protection
+    text12: Dabome’s privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that Dabome can use such data in accordance with our privacy policies.
+    text13: We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers.
+    title6: Your Content in our Services
+    text14: Some of our Services allow you to upload, submit, store, send or receive content. You retain ownership of any intellectual property rights that you hold in that content. In short, what belongs to you stays yours.
+    text15: When you upload, submit, store, send or receive content to or through our Services, you give Dabome (and those we work with) a worldwide license to use, host, store, reproduce, modify, create derivative works (such as those resulting from translations, adaptations or other changes we make so that your content works better with our Services), communicate, publish, publicly perform, publicly display and distribute such content. The rights you grant in this license are for the limited purpose of operating, promoting, and improving our Services, and to develop new ones. This license continues even if you stop using our Services (for example, for a business listing you have added). Some Services may offer you ways to access and remove content that has been provided to that Service. Also, in some of our Services, there are terms or settings that narrow the scope of our use of the content submitted in those Services. Make sure you have the necessary rights to grant us this license for any content that you submit to our Services.
+    text16: Our automated systems analyze your content to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. This analysis occurs as the content is sent, received, and when it is stored.
+    text17: If you have a Dabome Account, we may display your Profile name, Profile photo, and actions you take on Dabome or on third-party applications connected to your Dabome Account (such as news post, coupons, discounts, etc.) in our Services, including displaying in ads and other commercial contexts.
+    text18: You can find more information about how Dabome uses and stores content in the privacy policy or additional terms for particular Services. If you submit feedback or suggestions about our Services, we may use your feedback or suggestions without obligation to you.
+    title7: About Software in our Services
+    text19: When a Service requires or includes downloadable software, this software may update automatically on your device once a new version or feature is available. Some Services may let you adjust your automatic update settings.
+    text20: Dabome is tool (Web platform), which serves to promote your alone, the company through loyalty programs, creating news, discounts, rewards for customers as well as other form of digital marketing and promotion. Users (customers) will always be able to count on discounts and rewards throughout Dabome system. <B> Dabome is not only for loyalty cards and marketing, it is also a modern way to connect merchandiser and customer. </B> To use Dabome you need to have Internet access at the locations where it is used. About all the services and features offered by Dabome find out on the web site since the changes to services as possible and way of functioning. Purpose of subscribing to Dabome services is to enable you to use the advantages that Dabome provides and to enjoy them in the manner permitted by these terms.
+    text21: You can not copy, modify, distribute, sell or rent any of our Services or Software, nor reverse engineer or attempt to extract/take the source code of this Software, unless the laws prohibit such restrictions or when you have our written permission.
+    text22: Open source software is important to us. Some software used in our Services may be offered under an open source license that we will make available to you. There may be provisions in the open source license that expressly override some of these terms.
+    title8: Modifying and Terminating our Services
+    text23: We are constantly changing and improving our Services. We may add or remove functionalities or features, and we may suspend or stop a Service altogether.
+    text24: You can stop using our Services depending of your subsctiprion plan or in accordance with the contract in which you have agreed on special conditions, although we’ll be sorry to see you go. Dabome may also stop providing Services to you, or add or create new limits to our Services at any time, unless an agreement (if an  exists) is otherwise agreed upon.
+    text25: We believe that you own your data and preserving your access to such data is important. If we discontinue a Service, where reasonably possible, we will give you reasonable advance notice and a chance to get information out of that Service.
+    title9: Our Warranties and Disclaimers
+    text26: We provide our Services using a commercially reasonable level of skill and care and we hope that you will enjoy using them. But there are certain things that we don’t promise about our Services.
+    text27: Other than as expressly set out in these terms or additional terms, neither Dabome nor its suppliers or distributors make any specific promises about the Services. For example, we don’t make any commitments about the content within the Services, the specific functions of the Services, or their reliability, availability, or ability to meet your needs. We provide the Services “as is”.
+    text28: Some jurisdictions provide for certain warranties, like the implied warranty of merchantability, fitness for a particular purpose and non-infringement. To the extent permitted by law, we exclude all warranties.
+    title10: Liability for our Services
+    text29: When permitted by law, Dabome, and Dabome’s suppliers and distributors, will not be responsible for lost profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages.
+    text30: To the extent permitted by law, the total liability of Dabome, and its suppliers and distributors, for any claims under these terms, including for any implied warranties, is limited to the amount you paid us to use the Services (or, if we choose, to supplying you the Services again).
+    text31: In all cases, Dabome, and its suppliers and distributors, will not be liable for any loss or damage that is not reasonably foreseeable.
+    text32: We recognize that in some countries, you might have legal rights as a consumer. If you are using the Services for a personal purpose, then nothing in these terms or any additional terms limits any consumer legal rights which may not be waived by contract.
+    title11: Business uses of our Services
+    text33: If you are using our Services on behalf of a business, that business accepts these terms. It will hold harmless and indemnify Dabome and its affiliates, officers, agents, and employees from any claim, suit or action arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, suits, judgments, litigation costs and attorneys’ fees.
+    title12: About these Terms
+    text34: We may modify these terms or any additional terms that apply to a Service to, for example, reflect changes to the law or changes to our Services. You should look at the terms regularly. We’ll post notice of modifications to these terms on this page. We’ll post notice of modified additional terms in the applicable Service. Changes will not apply retroactively and will become effective no sooner than fourteen days after they are posted. However, changes addressing new functions for a Service or changes made for legal reasons will be effective immediately. If you do not agree to the modified terms for a Service, you should discontinue your use of that Service.
+    text35: If there is a conflict between these terms and the additional terms, the additional terms will control for that conflict.
+    text36: These terms control the relationship between Dabome and you. They do not create any third party beneficiary rights.
+    text37: If you do not comply with these terms, and we don’t take action right away, this doesn’t mean that we are giving up any rights that we may have (such as taking action in the future).
+    text38: If it turns out that a particular term is not enforceable, this will not affect any other terms.
+    text39: The courts in some countries will not apply Serbia law to some types of disputes. If you reside in one of those countries, then where Serbian law is excluded from applying, your country’s laws will apply to such disputes related to these terms. Otherwise, you agree that the laws of Serbia, excluding will apply to any disputes arising out of or relating to these terms or the Services. Similarly, if the courts in your country will not permit you to consent to the jurisdiction and venue of the courts in Belgrade, Serbia, Europa then your local jurisdiction and venue will apply to such disputes related to these terms. Otherwise, all claims arising out of or relating to these terms or the services will be litigated exclusively in the federal or state courts of Belgrade, Serbia, Europa and you and Dabome consent to personal jurisdiction in those courts.
+    text40: For information about how to contact Dabome, please visit our <a href="index.html#contact">contact page.
+    btnbacktotop: Back to top
+    
+    #terms and privacy translated text end here

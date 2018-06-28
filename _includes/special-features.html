@@ -1,0 +1,20 @@
+<div class="row special-feature">
+               {% for special_item in site.data.special_content %}
+                <div class="col-md-3 col-sm-6 margin20">
+                    <div class="s-feature-box text-center">
+                        <div class="mask-top">
+                            <!-- Icon --><i class="{{special_item.icon}}"></i>
+                            <!-- Title -->
+                            <h4> {% t {{special_item.header1}} %} </h4> </div>
+                        <div class="mask-bottom">
+                            <!-- Icon --><i class="{{special_item.icon}}"></i>
+                            <!-- Title -->
+                            <h4> {% t {{special_item.header2}} %} </h4>
+                            <!-- Text -->
+                            <p> {% t {{special_item.text}} %} </p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+                <!--services col-->
+</div>

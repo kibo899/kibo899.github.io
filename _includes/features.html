@@ -1,0 +1,16 @@
+<div class="row">
+    {% for features_item in site.data.features_content %}
+    <div class="col-sm-4">
+      
+        <div class="feature-box wow animated fadeInDown" data-wow-delay="{{features_item.data-wow-delay}}"> <i class="{{features_item.class-i}}"></i>
+            <h3>{% t {{features_item.header}} %}</h3>
+            <p>{% t {{features_item.paragraph}} %}</p>
+        </div>       
+    </div>
+     {% endfor %}
+</div>
+
+<!--
+
+
+</div> -->

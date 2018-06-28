@@ -1,0 +1,26 @@
+- name: Cooperation   
+  class-active: active
+  url: "index.html#cooperation"
+  controls: cooperation
+  class-i: icon-briefcase green
+  title: main.benefitsItemTitle.cooperation
+  
+- name: Discounts   
+  url: "index.html#discounts"
+  controls: discounts
+  class-i: icon-pricetags yellow
+  title: main.benefitsItemTitle.discounts
+ 
+- name: Social networks   
+  url: "index.html#socnetw"
+  controls: socnetw
+  class-i: icon-facebook red
+  title: main.benefitsItemTitle.socialnetworks
+ 
+- name: Reports 
+  url: "index.html#statreport"
+  controls: statreport
+  class-i: icon-piechart green
+  title: main.benefitsItemTitle.reports
+ 
+ 

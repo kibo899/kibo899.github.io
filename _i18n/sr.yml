@@ -1,0 +1,489 @@
+main:
+ navbarSection:
+    title: Dabome
+    home: Početna
+    features: Mogućnosti
+    how_it_works: Kako funkcioniše
+    pricing: Cenovnik
+    contact: Kontakt    
+    dabomeapp: Dabome app 
+    btnlogin: Loguj se
+    download: Preuzmi
+    language: Serbian
+    flag: rs.png
+    
+# Dabomewebsite translated text start here
+    
+ sectionHome:
+    dabomeplatformsh: Dabome platforma
+    thebestloyaltyprogramsh: Najsavremeniji lojalti sistem
+    learnmoresh: Saznaj više
+    registernowsh: Registruj se
+    
+ sectionFeatures:   
+    loyaltyprogram: Najbolji program lojalnosti
+    discountsforloyal: Popust za verne kupce na moderan i efikasniji način od klasičnih lojalti programa
+    dabomeisapowerful: Dabome je moćan alat od kojeg imaju koristi i kupci i prodavci. Verni kupci će uvek moći da računaju na popuste i nagrade u celom Dabome sistemu. Pored nagrade za verne kupce, prodavci kreiraju kupone koji uvek dolaze u prave ruke. Svoje akcije, događaje, promocije, rasprodaje, kampanje, vesti postavljaju vrlo jednostavno, kao kad postavljaju na facebook ili tvituju, a Dabome platforma ih pametno plasira kupcima.<b>Dabome nije platforma samo za loyalty kartice i marketing oglašavanja prodavaca već moderan način za kontakt prodavca i kupca.</b>    
+    discountforloyalcustomer: Popusti za verne kupce
+    simple: Jednostavno, razumljivo, efikasno! 
+    ouralgorithm: Naš način za nagrađivanje vernosti kupca je jednostavan tako da je prodavcu lako da postavi popust za svoje lojalne kupce koji će svaki kupac razumeti. Kupcima je lako da shvate koliki popust ili nagradu mogu da dobiju, bez komplikovanih kalkulacija poena i načina kako se skupljaju, dobijaju i troše. Sistem je fleksibilan pa prilagodite popust svojim potrebama i načinu poslovanja. Nisu potrebne plastične kartice, tu je moderna <a href="mobapp/index-us.html" clsss="green">Dabome </a> aplikacija. 
+    
+ featuresTitle:
+    featurescontent: Šta omogućava dabome?
+    
+ featuresHeader:
+    noinitialinvestment: Bez početnih investicija    
+    easytouse: Jednostavno za korišćenje
+    socialnetworks: Socijalne mreže
+    cooperation: Saradnja sa drugim prodavcima
+    customercare: Briga o kupcima
+    fastuser: Brza verifikacija korisnika
+    maximumsafe: Maksimalno sigurno
+    customertargeting: Kampanje za različite ciljane grupe
+    statisticsanalasys: Statistika i analiza
+    
+ featuresParagraph:
+    itisenough: Dovoljno je da se registrujete na našem sajtu, a mi ćemo obezbediti besplatnu podršku. Krećete odmah sa radom!
+    trainingforemployees: Obuka za radnike na kasama traje manje od 30 minuta. Vašim kupcima je još lakše a imaju i više mogućnosti kroz mobilnu aplikaciju.
+    dabomehasitsown: Dabome ima svoju socijalnu mrežu pa kupac može da podeli popust, kupon ili akciju sa bilo kojim svojim prijateljem iz imenika svog telefona. Pored Dabome uključeni su i Facebook, Twitter, Viber, Google+ ...
+    arrangeamutual: Dogovorite međusobnu saradnju sa drugima. Kreirajte kupone i dogovorite sa drugim prodavcima da ih podele umesto vas.
+    dabomegets: Približićete se Vašim kupcima tako što ćete saznati mnogo više o njima i njihovim navikama. Nagrađujete vi njih ali i oni vas.
+    whenacustomercomes: Kada kupac dođe na kasu već je verifikovan svojom mobilnom aplikacijom ili SMSom. Minimalno gubljenje vremena na kasi. Nema više plastičnih kartica koje često budu zaboravljene. 
+    allinformationabout: Svi podaci o Vašoj kompaniji, obavljenim transakcijama, kao i o kupcima su maksimalno sigurni, a odgovornost za bezbednost podataka snosi dabome.com .
+    dabomeremindsits: Kreirajte vaše ciljne grupe potrošača. Dabome podseća kupce da postave što više podataka o sebi i svojim interesovanjima kako bi dobio pravu informaciju u pravom trenutku.
+    seehowmanyusers: Unapređenje poslovanja, pratite kako se broj vaših vernih kupaca povećava. Pogledajte koliko ste imali korisnika sa popustima, po lokacijama, periodu.  
+    
+ sectionOtherFeatures:
+    advantagesdabome: Prednosti koje pruža Dabome
+    byusingdabome: Korišćenjem Dabome platforme dobijate lojalti sistem koji će Vas izdvojiti od drugih kompanija 
+    
+ benefitsItemTitle:
+    cooperation: Saradnja 
+    discounts: Popusti
+    socialnetworks: Socijalne mreže 
+    reports: Izveštaji 
+    
+ cooperationList:    
+    collaboratewith: Sarađujte sa drugim prodavcima
+    inagreementwith: U dogovoru sa drugim Prodavcima ostvarite uzajamnu korist
+    arrangeamutual: Dogovorite međusobnu saradnju sa drugima. Kreirajte kupone i dogovorite sa drugim prodavcima da ih podele umesto vas. Ako ne možete da pronađete vama odgovarajuće partnere za "cross merchant loyalty", Dabome platforma će to raditi sama za vas. Bilo da ste velika kompanija sa velikim lancima prodaje ili mala prodavnica vrlo brzo ćete osetiti prednosti sinergije. <b>Vaši kuponi će doći u prave ruke a ako je kupac zadovoljan verovatno dobijate još jednu vernu mušteriju.</b>
+    
+ discountsList:
+    createpromotions: Kreirajte kampanje za različite ciljne grupe
+    dabomereminds: Dabome podseća svoje kupce da postave što više podataka o sebi i svojim interesovanjima kako bi kupac dobio pravu informaciju u pravom trenutku i preciznije ponude. Tako je lakše da kreirate vaše ciljne grupe. Na primer, ženske osobe, 25-35 godina koje žive do 10km od vaše lokacije. Dabome će svakako informisati članove o vašim ponudama, akcijama, popustima ... To je naša prednost u odnosu na druge !
+    
+ socialnetworksList:
+    socialnetworks: Socijalne mreže, moderan način komukacije
+    recommendation: Preporuka vašim uslugama i proizvodima je najkvalitetnija kada je vaš kupac prenese i preporuči vas drugom kupcu. Dabome ima svoju socijalnu mrežu pa kupac može da podeli na primer kupon sa bilo kojim svojim prijateljem kojeg ima u imeniku svog telefona. Vaše akcije i kampanje zadovoljan kupac može da prosledi i na ostale socijalne mreže i tako vas preporuči širem krugu svojih prijatelja. Facebook, Instaram, Tweeter, G+, Viber, Hangsout, WhatsUp šta god da vaš kupac koristi je odlična reklama za vas i potencijalno novi verani kupaci.
+    
+ reportsList:
+    statisticsanalysis: Statistika i analiza 
+    improvingbusiness: Unapređenje poslovanja, pratite kako se broj vaših vernih kupaca povećava
+    seehowmany: Pogledajte koliko ste imali korisnika sa popustima, po lakacijama, periodu. Proverite koliko je kupona podeljeno a koliko realizovano. Imate specifične zahteve za izveštavanje, Dabome tim će vas saslušati i naći rešenje za vas.
+    
+ sectionProcessServices:    
+    howitworks: Kako funkcionise Dabome?
+    
+ howItWorksHeader:
+    registeryourbusiness: Registrujte vaš biznis
+    communicateyourcustomers: Komunikacija sa kupcima
+    getcustomers: Dođite do novih kupaca
+    learnmoreabout: Naučite više o svojim kupcima 
+    
+ howItWorksRegister:
+    registerheader: REGISTRUJTE VAŠ BIZNIS
+    
+ howItWorksRegisterList:
+    fillin: Popunite formu sa podacima o vašoj kompaniji
+    setthediscount: Podesite popust koji odgovara vašem poslovanju
+    setyourlocations: Unesite Vaša prodajna mesta
+    
+ howItWorksRegisterSubtitle:    
+    subtitleyourarenowready: Već ste spremni i imate svoj loyalty sistem!
+    
+ howItWorksRegisterParagraph:    
+    paragraphyourcompany: Vaša kompanija je dostupna Dabome članovima
+    
+ howItWorksAtext:    
+    atext: Registruj se   
+    
+ howItWorksCommunicate:
+    communicatewithyourcustomersheader: KOMUNIKACIJA SA KUPCIMA
+    
+ howItWorksheadtitle:    
+    headtitleallyouneed: Za verifikaciju je potreban mobilni telefon, običan ili pametni. Najbrže dobijate popust sa Dabome aplikacijom.
+    
+ howItWorksCommunicateList:
+    scanimages: Skeniranje slike
+    qrcode: Skeniranje QR koda
+    musicrecognition: Prepoznaj muziku
+    smsvalidation: Validacija SMS-om 
+    
+ howItWorksGetNewCustomers:
+    headergetnewcustomers: DOĐITE DO NOVIH KUPACA   
+    
+ howItWorksGetNewCustomersList:
+    customertargeting: Targetirajte kupce
+    createpromotionsnews: Postavljajte akcije/kampanje/vesti 
+    scsocialnetworks: Socijalne mreže
+    
+ howItWorksCustomersheader:
+    learnmorecustomersheader: NAUČITE VIŠE O SVOJIM KUPCIMA   
+    
+ howItWorksLearnMoreCustomers:       
+    trackhabitsyourcustomers: Pratite navike Vaših vernih kupaca
+    findthediscounts: Uočite popuste koji Vašim kupcima najviše odgovaraju
+    promoteyourbusiness: Unapredite poslovanje pružanjem akcija koje će Vaši verni kupci najbolje iskoristiti
+
+ sectionverification:
+    customerverification: Verifikacija kupaca je ujedno i vaša reklama
+    nomoreplasticcards: Nema više plastičnih kartica kojih nam je pun novčanik. Često kupci zaborave svoju karticu lojalnosti ili jednostavno nemaju više mesta u svom novčaniku. Kupac se prijavljuje u vaš sistem preko SMSa , QR koda , skeniranjem postera/nalepnice u vašem prostoru ili skeniranjem muzike koja se pušta u vašem prostoru. Prilagodite vašim potrebama.<a href="http://localhost:4000/sr/index-mobileapp.html" clsss="green"> Dabome mobilna aplikacija </a> je kao prozor kupca u vaše usluge, popuste, kupone, vesti ali i kao alat za verifikaciju kako bi ostvario popust kod vas. 
+    
+ textMessageContent:
+    textmessageheader1: SMS
+    smsheader2: SMS
+    customerreceivetext: Kupac na svoj broj telefona dobija SMS poruku sa verifikacionim PIN-om. Na ovaj način su vam dostupni i kupci koji nemaju pametne telefone!
+    
+ qrcodeContent:
+    qrheader1: QR kod
+    qrcodeheader2: QR kod
+    customerisverifiedtext: Skeniranjem QR koda iz Dabome aplikacije kupac je verifikovan i automatski se prikazuje u vašoj aplikaciji. Budite kreativni, printajte QR na majici, šoljici... 
+    
+ printPromoContent:
+    printheader1: POSTER, NALEPNICA <br/>FLAJER
+    printheader2: SLIKA / PRINT
+    addinvisibletext: Dodajete nevidljivi kod na vašu printanu reklamu. Skeniranjem iz Dabome aplikacije kupac je verifikovan. Nevidljivi kod se dodatno naplaćuje, pogledajte cenovnik! 
+    
+ musicPlayListContent:
+    musicheader1: Muzika 
+    musicheader2: Muzika
+    dabomeappcantext: Dodajete nevidljivi kod plejlistu u vašem objektu.Dabome aplikacija prepoznaje zvuk i kupac je verifikovan. Nevidljivi kod se dodatno naplaćuje, pogledajte cenovnik! 
+    
+ sectionPricing:
+    pricingtitle: Cenovnik
+    
+ startPlan:
+    startplanheader: Start plan
+    classpricestartplan: Besplatno !
+    
+ startPlanListing:
+    maximumone:  Maksimum jedna lokacija
+    maximum100customers: Do 100 kupaca ili 500 transakcija.
+    maximum2employees:  Maksimum dva zaposlena
+    alldiscouttypes: Svi tipovi popusta   
+    checkinwithencoded:  Verifikacija - Kodirana slika/muzika*, SMS, QR kod
+    basicreports:  Osnovi paket izveštaja
+    2freeannouncment: 2 besplatne objave promo vesti, akcija, kampanja ili događaja
+    2freesmart: 2 besplata pametna kupona
+    alldabomemembers: Dostupni svi dabome članovi
+    cooperationwithlocal: Uključena saradnja sa lokalni Dabome partnerima
+    minimum12month: Minimalno trajanje ugovora 1 god
+    
+ standardPlan:
+    standardplanheader: Standard plan
+    classpricestandardplan: <sup>RSD</sup>1024<sub>/mesečno </sub>   
+    
+ standardPlanListing:
+    onelocationincluded: Prva lokacija uključena
+    eachadditionallocation: Svaka sledeća lokacija je 899 RSD mesečno
+    unlimitedemployees: Neograničen broj zaposlenih
+    alldiscouttypes: Svi tipovi popusta
+    checkinwith: Verifikacija - Kodirana slika/muzika*, SMS, QR kod
+    basicreports: Osnovi paket izveštaja
+    2additional: 2 izveštaja na zahtev
+    4freeannouncments: 4 besplatne objave promo vesti, akcija, kampanja ili događaja
+    8freesmart: 8 besplatnih pametnih kupona
+    alldabomemembers: Dostupni svi dabome članovi
+    cooperationwithlocal: Uključena saradnja sa Dabome partnerima
+    minimum12: Minimalno trajanje ugovora 12 meseci
+    30discount: 30% popusta na ugovornu obavezu od 24 meseci
+    
+ enterprisesPlan:
+    enterprisesheader: VELIKI BIZNIS
+    classpriceenterprises: Pozovite !
+    
+ enterprisesListing:
+    unlimitedlocations: Neograničen broj lokacija
+    unlimitedemployees: Neograničen broj zaposlenih
+    alldiscouttypesincluded: Svi tipovi popusta
+    checkwithencodedprint: Verifikacija - Kodirana slika/muzika*, SMS, QR kod
+    basicreportsincluded: Osnovi paket izveštaja
+    additionalreportson: Izveštaji na zahtev
+    8freeannouncmentofnews: 8 besplatne objave promo vesti, akcija, kampanja ili događaja
+    48freesmartcoupons: 48 besplatnih pametnih kupona
+    aldabomemembersincluded: Dostupni svi dabome članovi
+    cooperationwith: Uključena saradnja sa Dabome partnerima
+    dabomeapiavailable: Dabome API
+    integrationwith: Besplatna integracija sa drugim aplikacijama koje već koristite
+    whitelabel: Mogućnost za "white label sistem"
+    minimum12monthcontract: Minimalno trajanje ugovora 1 god    
+    
+ starPricing:    
+    encodedprint: Da bi verifikacija preko štampanog materjala i/ili muzike funkcionisala potrebno je kodirati nevidljivim kodom. Jedno kodiranje se naplaćuju jednokratno 50 USD na godišnjem nivou. Slika/muzika je po vašoj želji.
+    
+ specialPromotionTitle:
+    specialpromotion: Specijalna promocija - Prva 3 meseca besplatno !!!    
+    
+ sectionContact:
+    contacttitle: Kontakt
+    contactsubtitle: Za sva pitanja pošaljite nam poruku.
+    nametitle: Ime....
+    emailaddresstitle: Email adresa....
+    messagetitle: Poruka....
+    sendbutton: Poslati        
+    
+ footerSection:
+    dabomefootertitle: Dabome
+    dabfotsec: Dabome nije platforma samo za loyalty kartice i marketing oglasavanja prodavaca vec moderan nacin za kontakt prodavca i kupca!
+    registernowbtn: Registruj se    
+    
+ contactSectionFooter:
+    contactheaderfooter: Pitajte nas ili zakazite demonstraciju  
+    
+ footerSocialSection:
+    socialsectiontitle: Pratite nas
+    
+ footerBottomSection:
+    homebottomtitle: Pocetna
+    fetauresbottomtitle: Mogucnosti
+    termsbottomtitle: Privatnost
+    privacybottomtitle: Uslovi 
+    
+# Dabomewebsite transleted text end here
+
+# MobApp transleted text start here
+
+ homeSectionTitleItem:
+    welcomedabome: Predstavljamo Vam Dabome mobilnu aplikaciju
+    modern: Savremeni lojalti sistem u Vašem džepu
+    explore: Saznaj više
+    downloadnow: Preuzmi aplikaciju
+    
+ featuresSectionTitle:
+    featurestitle: Mogućnosti
+    
+ feturesSectionLeft:    
+    h3item1: Popusti
+    paragraph1: Ostvarite pravo na popuste, poklone, u svim kompanijma koje koriste Dabome. Koristeći Dabome aplikaciju saznajte za nove popuste, kupone, poklone i kako da ih dobijete.    
+    h3item2: Obavestite prijatelje
+    paragraph2: Pozovite prijatelje da koriste Dabome aplikaciju, bilo putem Dabome socijalne mreže ili preko neke druge mreže koju koristite. Pošaljite poklon kupon za neku od kompanija ili podelite svoj popust sa drugima. Razmenite popuste sa vašim prijateljima.     
+    h3item3: Lokacije
+    paragraph3: Imaćete uvid u sve lokacije na kojima se nalaze Dabome kompanije kao i navigaciju do njih.
+    
+ feturesSectionRight:    
+    h3item1: Brza verifikacija
+    paragraph1: Možete skenirati poster kompanije, QR kod ili iskoristiti Dabome aplikaciju za prepoznavanje muzike na prodajnom mestu Dabome kompanije    
+    h3item2: Dabome kompanije
+    paragraph2: U svakom trenutku pored kompanija čiji ste korisnik, možete videti i sve ostale kompanije koje koriste Dabome platformu i postati njihov korisnik. Kompanije koje su u trendu su vam na raspolaganju u odnosu na vašu trenutnu lokaciju.     
+    h3item3: Vesti
+    paragraph3: Uvek ćete biti obavešteni o akcijama i novim popustima koje pružaju kompanije. Aplikacija će vas podsetiti da iskoristite popust koji vam je u blizini ili kupon koji uskoro ističe.
+    
+ howToSectionhowtoget:
+    howtogettitle: Kako do popusta?    
+    
+ howToSection:    
+    h4item1: Fiksni popusti
+    paragraph1: Pronađite sliku, poster ili QR kod, skenirajte Dabome aplikacijom i ostvarite neki od popusta u kompanijama koje koriste Dabome.
+    h4item2: Lojalti kartice
+    paragraph2: Uz lojalti kartice možete ostvariti popust ili dobiti besplatan artikal nakon odredjenog broja kupovina u nekoj od Dabome kompanija.
+    h4item3: Poklon kuponi
+    paragraph3: Koristeći Dabome socijalnu mrežu možete poslati poklon kupon nekom od svojih prijatelja.
+    
+ modernLoyaltySectionItemTitle:
+    modernloyaltysystem: Savremeni lojalti sistem koji staje u Vaš džep
+    
+ modernLoyaltySectionItem:    
+    paragraph1:  Dabome aplikacija je lojalti sistem koji omogućava da svoje lojalti kartice nosite uvek sa sobom. Bez plastičnih lojalti kartica koje se često zaboravljaju, pametni telefon je sve što Vam treba da uvek ostvarite popuste u svojim omiljenim kompanijama.
+    paragraph2: Nakon verifikacije na jedan od jednostavnih načina postajete korisnik neke od kompanija koje posećujete i dobijate mogućnost da ostvarite popuste.
+    paragraph3: Na jednostavan način doćićete do informacija o svim popustima i akcijama, o drugim kompanijama koje koriste Dabome platformu kao i o lokacijama na kojima se nalaze kompanije.
+    paragraph4: Putem Dabome socijalne mreže uvek možete pozvati svoje prijatelje da koriste Dabome aplikaciju ili im poslati poklon kupon.
+    
+ screenshotSection:
+    h3class: Aplikacija
+    
+ downloadSectionTitle:
+    h3title: Preuzmite aplikaciju odmah!
+    h2title: Aplikacija je dostupna u Google Play, uskoro i u App Store
+    comingsoon: Uskoro i za iPhone!    
+    
+ footerSectionMobApp:
+    followus: Pratite nas
+    
+ contactSectionMobApp:
+    callus: Pozovite nas
+    paragraph: "+38169615029"
+    mailus: Pišite nam
+    paragraph1: info@mnocompany.com
+    findus: Nađite nas MNO ltd
+    paragraph2: Majke Jevrosime 28, Beograd 
+    
+ footernavbar:
+    home: Početna
+    features: Mogućnosti
+    terms: Uslovi
+    privacy: Privatnost
+
+# MobApp transleted text end here   
+
+#terms and privacy translated text start here
+
+    
+ privacycontent: 
+    welcometothedabome: Dobro došli u Dabome politiku privatnosti
+    whenyouuse: Kada koristite Dabome usluge, poveravate nam informacije. Politika privatnosti ima za cilj da vam objasni koje podatke prikupljamo, zašto ih prikupljamo i šta radimo sa njima. Ovo je važno nadamo se da ćete izdvojiti vreme da pažljivo pročitate.
+    title1: Politika privatnosti
+    therearemany: Naše usluge možete da koristite na mnogo različitih načina - da biste pretraživali i delili informacije, da biste komunicirali sa kupcima ili drugim kompanijama ili pravili nov sadržaj, da bi ste se oglašavali kod Dabome korisnika. Kada delite informacije sa nama, na primer, pri otvaranju naloga, te usluge možemo da učinimo još boljim - da bi se prikazivali relevantniji rezultati pretrage i oglasi, da biste se lakše povezali sa kupcima ili da bi deljenje sa drugima bilo što brže i jednostavnije. Želimo da vam, dok koristite naše usluge, bude jasno kako koristimo informacije i na koje načine možete da zaštitite svoju privatnost.
+    wehavetrideto: Pokušali smo da ovo što više pojednostavimo, ali ako niste upoznati sa terminima kao što su kolačići IP adrese, oznake piksela i pregledači, onda prvo pročitajte o ovim ključnim terminima. Vaša privatnost je važna za nas i zato, bez obzira na to da li prvi put koristite Dabome ili to radite duže vreme, odvojite vreme da se upoznate sa našim praksama. Ako imate nekih pitanja, kontaktirajte nas.
+    ourprivacypolicy: Naša Politika privatnosti objašnjava
+ toc1List:    
+    page1: Koje informacije prikupljamo i zbog čega ih prikupljamo.
+    page2: Kako koristimo te informacije.
+    page3: Izbori koje nudimo, uključujući kako da pristupate informacijama i ažurirate ih.
+
+ privacycontentToc6:
+    informationwecollecttitle: Informacije koje prikupljamo
+    wecollectinf: Prikupljamo informacije da bismo svim korisnicima pružili bolje usluge - od otkrivanja nekih osnovnih stvari, kao što je naziv vašeg biznisa, lokacije na kojima se nalazi, delatnosti koje pruža, do nekih složenijih, kao što su vesti, akcije, kuponi, popusti koje ćete možda smatrati korisnim.
+ toc8List:    
+    formoreinformation: Više informacija o tome kako možete da pristupate informacijama koje su povezane sa Dabome nalogom, kao i da upravljate njima i da ih brišete, dostupne su vam u aplikaciji na svakoj funkcionalnosti i usluzi na kojoj se trenutno nalazite kroz menije na kojima imate "Pomoć" kao opciju.
+        
+ toc6List:
+    wecollectfollowing: Informacije prikupljamo na sledeće načine 
+    page1: <b>Informacije koje nam dajete.</b> Na primer, za mnoge usluge potrebno je da se registrujete za Dabome nalog. Registrujete se putem formulara koji popunjavate na našem sajtu na internetu a tom prilikom morate uneti naziv, adresa epošte, broj telefona , adresa , država i mesto, identifikacioni broj vaše kompanije kao i poreski identifikacioni broj. Kada ste se registorvali, ako u potpunosti želite da iskoristite prednosti usluga koje nudimo, od vas možemo da zatražimo i da popunite informacije o vašim prodajnim objektima, njihovim lokacijama i kontaktima, kao i podatke o radnicima kojima ste dodelili privilegije da koriste Dabome usluge.    
+    page2: <b>Informacije koje dobijamo na osnovu vašeg korišćenja usluga.</b> Prikupljamo informacije o uslugama koje koristite i o tome kako ih koristite, kao kada gledate ili kreirate popuste, kupone, vesti, akcije i druge usluge koje su vam u tom trenutku dostupne. Ove informacije obuhvataju.    
+ toc6SubList:    
+    page1: Informacije o uređaju
+    text1: Prikupljamo informacije o uređaju (kao što su model hardvera, verzija operativnog sistema, jedinstveni identifikatori uređaja i informacije o mobilnoj mreži, uključujući broj telefona). Dabome može da poveže identifikator uređaja ili broj telefona sa vašim Dabome nalogom.
+    page2: Podaci evidencije
+    text2: Kada koristite usluge koje pruža Dabome automatski prikupljamo i skladištimo određene informacije u evidencije servera. Te informacije obuhvataju
+    page3: Informacije o lokaciji
+    text3: Kada koristite Dabome usluge možda ćemo prikupljati i obrađivati informacije o vašoj stvarnoj lokaciji. Koristimo različite tehnologije za određivanje lokacije, uključujući IP-adresu GPS i Google servise koji mogu da pomognu da se bliže odredi vaša lokacija.    
+    page4: Jedinstveni brojevi aplikacija
+    text4: Određene usluge sadrže jedinstveni broj aplikacije. Ovaj broj i informacije o instalaciji (na primer, tip operativnog sistema i broj verzije aplikacije) mogu da budu poslati Dabome kada instalirate ili deinstalirate tu uslugu, odnosno kada ta usluga s vremena na vreme kontaktira servere, na primer, radi automatskih ažuriranja.    
+    page5: Lokalno skladištenje
+    text5: Informacije možemo da prikupljamo i skladištimo (uključujući lične podatke) lokalno na računaru ili uređaju pomoću mehanizama kao što je veb skladištenje iz pregledača (uključujući HTML-5) i keš memorije sa podacima o aplikaciji.
+    page6: Kolačići i slične tehnologije
+    text6: Mi i naši partneri koristimo različite tehnologije za prikupljanje i skladištenje informacija kada koristite neku Dabome uslugu i to može da obuhvata korišćenje za identifikaciju pretraživača ili uređaja. Koristimo te tehnologije i da bismo prikupljali i skladištili informacije kada ste u interakciji sa uslugama koje pružamo partnerima, kao što suusluge oglašavanja ili Dabome funkcije koje se mogu pojaviti na drugim sajtovima.    
+ toc6SubSubList:
+    page1: detalje o tome kako ste koristili našu uslugu, poput upita za pretragu.
+    page2: adresu internet protokola.
+    page3: događaje na nivou uređaja, kao što su otkazivanja, aktivnost sistema, podešavanja hardvera, tip pregledača, jezik pregledača, datum i vreme upućivanja zahteva, referentna URL adresa adresa.
+    page4: kolačiće koji mogu na jedinstven način da identifikuju pregledač ili Dabome nalog.
+    
+ toc9List:
+    title1: Kako koristimo informacije koje prikupljamo
+    subtitle1: Informacije koje prikupljamo sa svih naših usluga koristimo da bismo pružali, održavali, zaštitili i poboljšali te usluge, da bismo razvijali nove i da bismo zaštitili Dabome i naše korisnike. Ove informacije koristimo i da bismo vam nudili prilagođeni sadržaj - kao što je prikazivanje relevantnijih rezultata pretrage.
+    subtitle2: Ime koje ste naveli za Dabome nalog kao i osnovne informacije o vašem biznusu možemo da koristimo na svim uslugama koje nudimo, a za koje je potreban Dabome nalog. Ako drugi korisnici već imaju kontakt sa vašim nalogom ili neke druge informacije koje vas identifikuju, možemo da im pokažemo vaše javno vidljive informacije , kao što su naziv biznisa, naziv lokacije, fotografije koje, logo itd.
+    subtitle3: Kada kontaktirate Dabome čuvamo zapis komunikacije koja može da nam pomogne da rešimo neke probleme na koje ste možda naišli. Imejl adresu možemo da koristimo da bismo vam slali obaveštenja o uslugama, kao što su buduće promene ili poboljšanja.
+    subtitle4: Informacije prikupljene pomoću kolačića i drugih tehnologija, kao što su oznake piksela, koristimo da bismo poboljšali korisnički doživljaj i celokupni kvalitet naših usluga. Jedan od proizvoda koji koristimo da bismo ovo radili za naše usluge je Google analitika. Na primer, čuvanjem podešavanja jezika moći ćemo da vam prikazujemo usluge na željenom jeziku.
+    subtitle5: Automatizovani sistemi analiziraju sadržaj (uključujući imejlove) da bi vam obezbedili relevantne funkcije proizvoda, poput prilagođenih rezultata pretrage, prilagođenih izveštaja i drugo.
+    subtitle6: Zatražićemo vašu saglasnost pre nego što informacije iskoristimo u neku drugu svrhu koja nije navedena u ovoj Politici privatnosti.
+    subtitle7: Dabome obrađuje lične podatke na našim serverima u mnogim zemljama širom sveta. Možemo da obrađujemo lične podatke na serveru koji se nalazi izvan zemlje u kojoj živite.
+    title2: Transparentnost i izbor
+    subtitle8: Ljude brinu različite stvari u vezi sa privatnošću. Naš je cilj da jasno stavimo do znanja koje informacije prikupljamo da biste mogli da izaberete smislene opcije za njihov način korišćenja.
+    subtitle9: Možete i da podesite pregledač da blokira sve kolačiće, uključujući i kolačiće povezane sa našim uslugama, ili da označi kada mi šaljemo kolačić. Međutim, važno je da imate u vidu da mnoge naše usluge neće pravilno funkcionisati ako su kolačići onemogućeni. Na primer, podešavanja jezika možda neće biti upamćena.
+    title3: Informacije koje delite
+    subtitle10: Mnoge naše usluge vam omogućavaju da delite informacije sa drugima. Imajte u vidu da, kada javno delite informacije, pretraživači mogu da ih popišu, uključujući Google.
+    title4: Pristup ličnim podacima i njihovo ažuriranje
+    subtitle11: Naš je cilj da vam obezbedimo pristup vašim podacima svaki put kada koristite naše usluge. Ako su te informacije netačne, trudimo se da vam obezbedimo načine da ih brzo ažurirate ili izbrišete – osim ukoliko te informacije ne moramo da čuvamo iz legitimnih poslovnih razloga ili u zakonske svrhe. Kada ažuriramo vaše podatke, možemo da zahtevamo da potvrdite svoj identitet pre nego što ispunimo vaš zahtev.
+    subtitle12: Možemo da odbijemo zahteve koji se ponavljaju bez razloga, zahtevaju nesrazmerno veliki tehnički napor (na primer, razvijanje novog sistema ili potpuno menjanje postojeće prakse), ugrožavaju privatnost drugih ili su veoma nepraktični (na primer, zahtevi koji se odnose na informacije koje se nalaze na trakama rezervnih kopija).
+    subtitle13: Kada je moguće da obezbedimo pristup informacijama i njihovom ispravljanju, naše usluge će biti besplatne, osim ukoliko bi to predstavljalo nesrazmerno velik napor. Naš je cilj da usluge održavamo na način kojim se informacije štite od slučajnog ili zlonamernog uništavanja. Zbog toga, kada informacije izbrišete sa naših usluga, možda nećemo odmah izbrisati zaostale kopije sa naših aktivnih servera i možda nećemo ukloniti informacije sa sistema rezervnih kopija.
+    
+ toc12list: 
+    title: Informacije koje delimo
+    text1: Delimo vaše podatke sa kompanijama, organizacijama i pojedincima izvan Dabome samo u sledećim okolnostima
+    text2: Možemo da delimo informacije koje ne služe za identifikaciju javno i sa partnerima – poput objavljivača, oglašavača ili povezanih sajtova. Na primer, možemo javno da delimo informacije da bismo prikazali trendove za opštu upotrebu naših usluga.
+    text3: Ako je Dabome uključen u spajanje ili kupovinu društava ili prodaju imovine, nastavićemo da obezbeđujemo poverljivost svih osetljivih podataka i da obaveštavamo korisnike na koje se to odnosi pre nego što se osetljivi podaci prenesu ili na njih počne da se primenjuje neka druga politika privatnosti.
+ toc12List2:
+    page1: <b>Uz vašu saglasnost</b>
+    text1: Vaše ostljive podatke ćemo deliti sa kompanijama, organizacijama ili pojedincima izvan Dabome kada imamo vašu saglasnost da to učinimo. Zahtevamo izričitu saglasnost za deljenje svih osetljivih podataka.
+    page2: <b>Sa administratorima domena</b>
+    text2: Ako Dabome nalogom upravlja naš prodavac, distributer ili partner koji vam je prodao Dabome uslugu (na primer, kompanija ili pojedinac koji ima ugovor o saradnji sa Dabome), onda će prodavci koji pružaju korisničku podršku vašoj organizaciji imati pristup informacijama o vašem Dabome nalogu (uključujući adresu e-pošte i druge podatke). Prodavac će možda moći
+    page3: <b>Za spoljnu obradu</b>
+    text3: Podatke dajemo našim povezanim društvima ili drugim pouzdanim pravnim ili fizičkim licima da bi ih u naše ime obradili na osnovu uputstava i u skladu sa Politikom privatnosti i sa svim odgovarajućim merama zaštite podataka i bezbednosti.
+    page4: <b>Iz pravnih razloga</b>
+    text4: Podatke ćemo deliti sa privrednim društvima, organizacijama ili pojedincima izvan Dabome ako čvrsto verujemo da je pristupanje informacijama, njihovo korišćenje, čuvanje ili otkrivanje u razumnoj meri potrebno 
+    text5: Ako imate dodatnih pitanja u vezi kontrole i dostupnosti informacija koje ima Prodavac preko koga ste kupili Dabome usluge kontaktirajte nas.
+ toc12Lisst3:
+    page1: da pregleda statistiku u vezi sa nalogom, kao što je statistika u vezi sa verifikacijama kupaca kroz Dabome usluge.
+    page2: da promeni lozinku za nalog.
+    page3: da obustavi ili ukine pristup nalogu.
+    page4: da pristupa informacijama koje su sačuvane kao deo naloga ili da ih zadrži.
+    page5: da prima informacije o nalogu da bi se postupalo u skladu sa važećim zakonima, propisima,zakonskim procesima ili izvršnim zahtevima državnih organa.     
+ toc12Lisst4:
+    page1: da bi se postupalo u skladu sa važećim zakonima, propisima,zakonskim procesima ili izvršnim zahtevima državnih organa.
+    page2: da bi se primenili važeći Uslovi korišćenja usluge, uključujući istraživanje potencijalnih kršenja ovih uslova.
+    page3: da bi se otkrili, sprečili ili na neki drugi način rešili problemi sa prevarama i bezbednošću ili tehnički problemi.
+    page4: da bi se zaštitila prava, vlasništvo i bezbednost Dabome, naših korisnika ili javnosti kao što se to zahteva ili je dozvoljeno zakonom.
+    
+ toc13List:
+    title1: Bezbednost informacija
+    text1: Naporno radimo da bismo Dabome i naše korisnike zaštitili od neovlašćenog pristupa informacijama koje imamo ili od neovlašćenog menjanja, otkrivanja ili uništavanja tih informacija. Evo detalja
+    title2: Kada se ova Politika privatnosti primenjuje
+    text2: Politika privatnosti se primenjuje na sve usluge koje nudi Dabome i MNO d.o.o. i njegovi zastupnici, uključujući prodavce, usluge koje Dabome pruža na mobilnim uređajima i usluge koje se nude na drugim sajtovima (kao što su naše usluge oglašavanja), ali izuzima usluge koje imaju zasebne politike privatnosti koje ne obuhvataju ovu politiku privatnosti.
+    text3: Politika privatnosti se ne primenjuje na usluge koje nude druga privredna društva ili pojedinci, uključujući proizvode ili sajtove koji mogu da se pojave dok koristite Dabome usluge, sajtove koji mogu da uključuju Dabome usluge ili druge sajtove do kojih postoje veze na našim uslugama. Politika privatnosti ne obuhvata prakse za korišćenje informacija drugih privrednih društava i organizacija koje oglašavaju naše usluge i koje mogu da koriste kolačiće, oznake piksela i druge tehnologije da bi prikazivale i nudile relevantne oglase.
+    title3: Poštovanje odluka regulatornih organa i saradnja sa njima
+    text4: Redovno proveravamo usaglašenost sa politikom privatnosti. Takođe primenjujemo niz samoregulativnih okvira, uključujući Okvir zaštite privatnosti u EU i SAD. Kada primimo formalne pismene žalbe, kontaktiraćemo osobu koja je podnela žalbu da bismo to ispitali. Sarađujemo sa odgovarajućim nadzornim organima, uključujući lokalne vlasti nadležne za zaštitu podataka, da bismo rešili eventualne tužbe u vezi sa prenosom ličnih podataka koje ne možemo da rešimo direktno sa korisnicima.
+    title4: Promene
+    text5: Politika privatnosti može da se promeni s vremena na vreme. Bez izričite saglasnosti nećemo vam umanjiti prava u skladu sa ovom Politikom privatnosti. Na ovoj stranici ćemo postaviti eventualne promene Politike privatnosti i, ukoliko su promene značajne, poslaćemo dodatno obaveštenje (što za određene usluge uključuje poruke e-pošte sa obaveštenjem o promenama politike privatnosti). Takođe ćemo zadržati ranije verzije ove politike privatnosti u arhivi kako biste mogli da ih pregledate.
+    btnbacktotop: Nazad na vrh
+ toc13List2:
+    list1: Mnoge naše usluge šifrujemo pomoću SSL-a.
+    list2: Da bismo sprečili neovlašćeni pristup sistemima, pregledamo prakse prikupljanja, skladištenja i obrade informacija, kao i fizičke mere bezbednosti.
+    list3: Pristup ličnim podacima ograničavamo na zaposlene u Dabome, podizvođače i agente kojima su te informacije potrebne da bi ih obradili u naše ime i koji su na osnovu ugovora u obavezi da striktno poštuju poverljivost podataka i koji mogu da budu podvrgnuti disciplinskim merama, uključujući prekid radnog ili ugovornog odnosa, ukoliko ne ispune te obaveze.
+    
+ toc00List:
+    title1: Dabome uslovi korišćenja usluge
+    title2: Dobrodošli na Dabome!
+    text1: Hvala vam što koristite naše proizvode i usluge („Usluge“). Usluge pruža MNO d.o.o. („MNO“) sa sedištem na adresi 7b Sestara Janković, 11000 Beograd, Srbija. Dabome je digitalni servis u vlasništvu kompanije MNO.
+    text2: <b>Korišćenjem naših Usluga prihvatate ove uslove. Pažljivo ih pročitajte.</b>
+    text3: Usluge su veoma raznovrsne pa u nekim slučajevima mogu da se primenjuju dodatni uslovi i zahtevi za proizvode (uključujući ograničenja u pogledu uzrasta). Dodatni uslovi biće dostupni uz relevantne Usluge i činiće deo ugovora sa nama ukoliko koristite te Usluge.
+    title3: Korišćenje Usluga
+    text4: Morate da poštujete sve smernice koje su vam dostupne u okviru Usluga.
+    text5: Nemojte da zloupotrebljavate naše Usluge. Na primer, nemojte da ometate Usluge ili da pokušavate da im pristupite koristeći metod koji se razlikuje od interfejsa i uputstava koje mi pružamo. Usluge možete da koristite samo na način koji je dozvoljen zakonom, uključujući važeće zakone i propise koji se odnose na kontrolu izvoza i ponovnog izvoza. Možemo da obustavimo ili prekinemo da vam pružamo Usluge ukoliko se ne pridržavate naših uslova ili smernica, ili ukoliko istražujemo slučaj mogućeg nedozvoljenog ponašanja.
+    text6: Korišćenjem Usluga ne dobijate vlasništvo nad bilo kojim pravima intelektualne svojine koja se odnose na Usluge ili na sadržaj kom pristupate. Sadržaj iz Usluga ne možete da koristite osim ukoliko ne dobijete dozvolu vlasnika sadržaja ili vam se to na neki drugi način ne odobri u skladu sa zakonom. Ovi uslovi vam ne daju pravo da koristite brendiranje ili logotipe koji se koriste na našim Uslugama. Nemojte da uklanjate, skrivate ili menjate pravna obaveštenja prikazana na našim Uslugama ili zajedno sa njima.
+    text7: Usluge mogu da prikazuju i neki sadržaj koji nije Dabome-ov. Isključiva odgovornost za ovaj sadržaj je na entitetu koji ga čini dostupnim. Možemo da pregledamo sadržaj da bismo utvrdili da li je nezakonit ili da li krši naše smernice i možemo da uklonimo ili da odbijemo da prikazujemo sadržaj za koji razumno smatramo da krši smernice ili zakon. Ali to nužno ne znači da pregledamo sadržaj pa ne treba pretpostaviti da je to slučaj.
+    text8: Možemo da vam šaljemo najave za Usluge, administrativne poruke i druge informacije u vezi sa korišćenjem Usluga. Možete da izaberete da ne primate neke od ovih komunikacija.
+    text9: Neke od Usluga su dostupne na mobilnim uređajima. Ne koristite te Usluge na način koji vam odvlači pažnju i sprečava vas u poštovanju zakona o saobraćaju ili bezbednosti.
+    title4: Dabome nalog
+    text10: Dabome nalog je obavezan da bi koristili naše Usluge. Možete da otvorite sopstveni Dabome nalog ili nalog može da vam dodeli administrator, kao što je poslodavac ("merchant") ili druga institucija ili udruženje. Ako koristite Dabome nalog koji vam je dodelio administrator ili poslodavac, mogu da se primenjuju drugi ili dodatni uslovi i administrator će moći da pristupi nalogu i da ga onemogući.
+    text11: Da biste zaštitili Dabome nalog, ne otkrivajte lozinku nikome. Odgovorni ste za aktivnosti koje se odvijaju na Dabome nalogu ili preko njega. Potrudite se da ne koristite lozinku za Dabome nalog u aplikacijama trećih strana. Ako saznate da su lozinka ili Dabome nalog neovlašćeno korišćeni, obavezno nas kontaktirajte i obavestite.
+    title5: Zaštita privatnosti i autorskih prava
+    text12: Dabome politike privatnosti objašnjavaju kako postupamo sa ličnim podacima i podacima kompanija i štitimo privatnost kada koristite naše Usluge. Korišćenjem Usluga prihvatate da Dabome može da koristi takve podatke u skladu sa našim politikama privatnosti.
+    text13: Reagujemo na obaveštenja o navodnim povredama autorskih prava i ukidamo naloge višestrukih prekršilaca.
+    title6: Vaš sadržaj u našim Uslugama
+    text14: Neke od Usluga vam omogućavaju da otpremate, dostavljate, čuvate, šaljete ili primate sadržaj. Zadržavate vlasništvo nad svim pravima intelektualne svojine koja imate za taj sadržaj. Ukratko, ono što vam pripada, ostaje vaše.
+    text15: Kada otpremate, dostavljate, čuvate, šaljete ili primate sadržaj preko Usluga, dajete Dabome (i našim partnerima) licencu za korišćenje, hostovanje, čuvanje, reprodukovanje, menjanje, pravljenje izvedenih dela (poput onih koja proističu iz prevoda, prilagođavanja ili drugih promena koje unosimo da bi sadržaj bolje funkcionisao sa Uslugama), komunikaciju, objavljivanje, javno izvođenje, javno prikazivanje i distribuiranje takvog sadržaja u celom svetu. Prava koja dodeljujete ovom licencom koriste se u ograničene svrhe funkcionisanja, promovisanja i poboljšanja Usluga, kao i za razvijanje novih. Ova licenca ostaje na snazi čak i ako prestanete da koristite naše Usluge (na primer, za unos privrednog društva koje ste dodali u naš sistem). Neke Usluge mogu da nude načine da pristupite sadržaju koji je obezbeđen za tu Uslugu i da ga uklonite.
+    text16: Automatizovani sistemi analiziraju sadržaj da bi vam obezbedili relevantne funkcije proizvoda, poput prilagođenih rezultata pretrage, prilagođenih oglasa i funkcije otkrivanja nepoželjnog sadržaja i malvera. Ova analiza se obavlja pri slanju, primanju i čuvanju sadržaja.
+    text17: Možemo prikazati ime profila, sliku profila i radnje koje preduzimate na Dabome ili u aplikacijama trećih strana povezanim sa Dabome nalogom (kao što vesti, kuponi, akcije, popusti itd) u Uslugama, uključujući prikazivanje u oglasima i drugim komercijalnim kontekstima.
+    text18: Više informacija o načinu na koji Dabome koristi i skladišti sadržaj možete da pronađete u politici privatnosti ili dodatnim uslovima korišćenja određenih Usluga. Ako pošaljete povratne informacije ili predloge o Uslugama, povratne informacije ili predloge možemo da koristimo bez obaveze prema vama.
+    title7: O softveru u našim Uslugama
+    text19: Kada usluga zahteva ili obuhvata softver za preuzimanje, ovaj softver može automatski da se ažurira na uređaju kada nova verzija ili funkcija postanu dostupne. Neke Usluge mogu da vam dozvole da prilagodite podešavanja automatskog ažuriranjа.
+    text20: Dabome je alat (web platforma) koji služi za promociju vaše komapnije kroz programe lojalnosti, kreiranje vesti, popusta, nagrada za kupce kao i drugog vida digitalnog marketinga i promocija. Korisnici (kupci) će uvek moći da računaju na popuste i nagrade u celom Dabome sistemu. Dabome nije platforma samo za loyalty kartice i marketing oglašavanja prodavaca već moderan način za kontakt prodavca i kupca. Da bi koristili Dabome morate imati internet pristup na lokacijama na kojima ga koristite. O svim mogućnostima i uslugama koje vam nudi Dabome informišite se putem web sajta obzirom da su promene na uslugama moguće kao i način funkcionisanja. Jedina svrha ove pretplate na Dabome usluge jeste da vam omogući da koristite prednosti koje Dabome pruža i da uživate u njima na način dozvoljen ovim uslovima.
+    text21: Ne smete da kopirate, menjate, distribuirate, prodajete ili dajete u zakup nijedan deo naših Usluga ili obuhvaćenog softvera, niti da vršite reverzni inženjering ili pokušavate da izdvojite izvorni kôd takvog softvera, osim ukoliko zakoni zabranjuju ovakva ograničenja ili kada imate našu pismenu dozvolu.
+    text22: Softver otvorenog koda nam je važan. Neki softver koji Usluge koriste može da se nudi po osnovu licence za otvoreni kôd koju ćemo vam staviti na raspolaganje. U okviru licence za otvoreni kôd mogu da postoje odredbe koje izričito zamenjuju neke od ovih uslova.
+    title8: Izmena i ukidanje Usluga
+    text23: Neprestano menjamo i poboljšavamo Usluge. Možemo da dodamo ili uklonimo funkcionalnosti ili funkcije, a isto tako možemo potpuno da obustavimo ili prekinemo neku Uslugu.
+    text24: Usluge možete da prestanete da koristite u skladu sa trenutnom pretplatom koju ste izabrali ili u skladu sa aneksom ugovora u kome ste dogovorili posebne uslove iako će nam biti žao ukoliko do toga dođe. Dabome u svakom trenutku može i da prestane da vam pruža Usluge ili da doda ili odredi nova ograničenja za Usluge osim ako aneksnom ugovora (ako aneks postoji) nije drugačije dogovoreno.
+    text25: Smatramo da vaši podaci pripadaju vama i očuvanje pristupa ovim podacima nam je važno. Ukoliko prekidamo pružanje neke usluge, blagovremeno ćemo upozoriti korisnike ukoliko je to moguće i pružiti im mogućnost da preuzmu informacije sa te Usluge.
+    title9: Naše garancije i odricanja odgovornosti
+    text26: Usluge pružamo koristeći komercijalno razuman nivo stručnosti i pažnje i nadamo se da ćete uživati u njihovom korišćenju. Ali postoje određene stvari u vezi sa Uslugama koje ne možemo da garantujemo.
+    text27: Osim onoga što je u ovim uslovima ili dodatnim uslovima izričito navedeno, ni Dabome ni njegovi dobavljači niti distributeri ne daju nikakve posebne garancije u vezi sa Uslugama. Primera radi, ni na koji način se ne obavezujemo po pitanju sadržaja u okviru Usluga, određenih funkcija Usluga, njihove pouzdanosti, dostupnosti ili mogućnosti da zadovolje vaše potrebe. Usluge pružamo „takve kakve jesu“.
+    text28: Propisi nekih država predviđaju pružanje određenih garancija, kao što je podrazumevana garancija o podobnosti za prodaju, podobnosti za određenu upotrebu i nekršenju tuđih prava. U meri dopuštenoj zakonom, isključujemo sve garancije.
+    title10: Odgovornost za Usluge
+    text29: Kada je to zakonom dozvoljeno, Dabome i Dabome dobavljači i distributeri neće biti odgovorni za izgubljenu dobit, prihod ili podatake, finansijske gubitke ili posredne, posebne, posledične, egzemplarne ili kaznene štete.
+    text30: U meri dopuštenoj zakonom, ukupna odgovornost Dabome i njegovih dobavljača i distributera za svaku tužbu po osnovu ovih uslova, uključujući sve podrazumevane garancije, ograničena je na iznos koji ste nam platili za korišćenje Usluga (ili, po našem izboru, na ponovno pružanje Usluga).
+    text31: U svakom slučaju, Dabome i njegovi dobavljači i distributeri neće biti odgovorni ni za jedan gubitak ili štetu koja nije mogla razumno da se predvidi.
+    text32: Uviđamo da u nekim državama možete da imate određena zakonska prava kao potrošač. Ako Usluge koristite u lične svrhe, onda ništa iz ovih ili dodatnih uslova ne ograničava zakonska prava potrošača koja se ugovorom ne mogu isključiti.
+    title11: Korišćenje Usluga u poslovne svrhe
+    text33: Naše Usluge morate koristiti u ime privrednog subjekta i taj subjekt prihvata ove uslove. Štitiće i obeštetiti Dabome i njegova povezana društva, službenike, agente i zaposlene u slučaju bilo kakvih zahteva, tužbi ili radnji koje su rezultat vašeg korišćenja Usluga ili kršenja ovih uslova, ili su u bilo kakvoj vezi sa tim, uključujući i bilo kakvu odgovornost ili troškove koji nastanu kao posledica zahteva, gubitaka, šteta, tužbi, presuda, troškova parnica i advokatskih honorara.
+    title12: O ovim uslovima
+    text34: Možemo da izmenimo ove uslove ili dodatne uslove koji važe za neku Uslugu da bismo, na primer, primenili promene iz zakona ili promene u Uslugama. Trebalo bi da ih redovno proveravate. Postavićemo obaveštenje o izmenama ovih uslova na ovoj stranici. Obaveštenje o izmenama dodatnih uslova postavićemo u Usluzi na koju se odnose. Promene se neće retroaktivno primenjivati i stupiće na snagu najranije četrnaest dana nakon postavljanja. Međutim, promene koje se odnose na nove funkcije za neku Uslugu ili promene unete iz pravnih razloga odmah će stupiti na snagu. Ako ne prihvatate izmenjene uslove za neku Uslugu, trebalo bi da prekinete sa korišćenjem te Usluge.
+    text35: Ukoliko ovi i dodatni uslovi budu u sukobu, prednost imaju dodatni uslovi.
+    text36: Ovi uslovi kontrolišu odnos između Dabome i vas. Ne stvaraju nikakva korisnička prava trećeg lica.
+    text37: Ako se ne pridržavate ovih uslova, a mi ništa ne preduzmemo odmah, to ne znači da se odričemo prava koja možda imamo (kao što je preduzimanje radnje u budućnosti).
+    text38: Ako se ispostavi da nije moguće sprovesti određeni uslov, to neće uticati na ostale uslove.
+    text39: Sudovi u nekim zemljama neće primenjivati zakon Srbije u nekim vrstama sudskih postupaka. Ukoliko živite u jednoj od tih zemalja, onda se, kada je primena zakona Srbije isključena, na sporove u vezi sa ovim uslovima mogu primenjivati zakoni te zemlje. U suprotnom, zakoni države Srbije, primenjivaće se na sve sporove nastale iz ovih uslova ili Usluga ili u vezi sa njima. Slično tome, ukoliko vam sudovi u zemlji ne dozvoljavaju da prihvatite nadležnost ili sedište suda u okrugu Beograd, Srbija, Evropa, onda će za spor nastao u vezi sa ovim uslovima važiti lokalna nadležnost ili sedište suda. U suprotnom, svi sporovi nastali iz ovih uslova ili Usluga ili u vezi sa njima biće vođeni isključivo u sudovima okruga Beograd, Srbija, Evropa, i vi i Dabome prihvatate nadležnost ovih sudova.
+    text40: Više informacija o tome kako da kontaktirate Dabome potražite na <a href="index.html#contact">stranici za kontakt.
+    btnbacktotop: Nazad na vrh
+
+#terms and privacy translated text end here

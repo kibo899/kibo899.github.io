@@ -1,0 +1,4 @@
+- name: title   
+  downloadapp: main.downloadSectionTitle.h3title
+  available: main.downloadSectionTitle.h2title
+  comingsoon: main.downloadSectionTitle.comingsoon

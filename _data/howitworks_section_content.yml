@@ -1,0 +1,59 @@
+- name: Register your business
+  class-step: step
+  class-icon: icon-square green
+  class-i: icon-pencil
+  header: main.howItWorksRegister.registerheader
+  li-class-i: fa fa-check-square green
+  class-text-danger: text-danger green
+  subtitle-subtitle: main.howItWorksRegisterSubtitle.subtitleyourarenowready
+  class-p-green: green
+  para: main.howItWorksRegisterParagraph.paragraphyourcompany
+  url: "http://app.dabome.com/companyRegistration/us"
+  class-btn: btn btn-skin btn-radius btn-lg
+  atext: main.howItWorksAtext.atext
+# A list of how it works section
+  list:
+   - main.howItWorksRegisterList.fillin
+   - main.howItWorksRegisterList.setthediscount
+   - main.howItWorksRegisterList.setyourlocations   
+
+- name: Communicate with your customers
+  id: client-comm
+  class-step: step even
+  class-icon: icon-square yellow
+  class-i: icon-chat
+  header: main.howItWorksCommunicate.communicatewithyourcustomersheader
+  li-class-i: fa fa-check-square yellow
+  headtitle: main.howItWorksheadtitle.headtitleallyouneed
+# A list of how it works section
+  list:
+   - main.howItWorksCommunicateList.scanimages
+   - main.howItWorksCommunicateList.qrcode
+   - main.howItWorksCommunicateList.musicrecognition
+   - main.howItWorksCommunicateList.smsvalidation   
+
+- name: Attract new customers
+  id: new-cust
+  class-step: step
+  class-icon: icon-square red
+  class-i: icon-megaphone
+  header: main.howItWorksGetNewCustomers.headergetnewcustomers
+  li-class-i: fa fa-check-square red
+# A list of how it works section
+  list:
+   - main.howItWorksGetNewCustomersList.customertargeting
+   - main.howItWorksGetNewCustomersList.createpromotionsnews
+   - main.howItWorksGetNewCustomersList.scsocialnetworks   
+   
+- name: Learn more about your customers
+  id: habits
+  class-step: step even
+  class-icon: icon-square green
+  class-i: icon-presentation
+  header: main.howItWorksCustomersheader.learnmorecustomersheader
+  li-class-i: fa fa-check-square green
+# A list of how it works section
+  list:
+   - main.howItWorksLearnMoreCustomers.trackhabitsyourcustomers
+   - main.howItWorksLearnMoreCustomers.findthediscounts
+   - main.howItWorksLearnMoreCustomers.promoteyourbusiness

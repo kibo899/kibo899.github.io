@@ -1,0 +1,27 @@
+- name: Register your business
+  class-process: process-col green
+  icon-circle: icon-circle-green
+  url: "#buss-reg"
+  class-i: icon-pencil
+  header: main.howItWorksHeader.registeryourbusiness  
+  
+- name: Communicate with your customers
+  class-process: process-col yellow
+  icon-circle: icon-circle-yellow
+  url: "#client-comm"
+  class-i: icon-chat
+  header: main.howItWorksHeader.communicateyourcustomers  
+  
+- name: Get new customers
+  class-process: process-col red
+  icon-circle: icon-circle-red
+  url: "#new-cust"
+  class-i: icon-megaphone
+  header: main.howItWorksHeader.getcustomers   
+  
+- name: Learn more about your customers
+  class-process: process-col green
+  icon-circle: icon-circle-green
+  url: "#habits"
+  class-i: icon-presentation
+  header: main.howItWorksHeader.learnmoreabout

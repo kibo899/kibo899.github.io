@@ -1,0 +1,24 @@
+<div class="row">
+                {% for price_item in site.data.price_content %}
+                <div class="col-md-4 col-sm-6">
+
+                    <div class="{{price_item.price-box}}">
+                        <h3>{% t {{price_item.header}} %}</h3>
+                        <div class="price"> {% t {{price_item.class-price}} %}</div>
+
+                        <ul class="list-unstyled">
+
+                            {% for list_item in price_item.list %}
+                                <li><i class="fa fa-check-square"></i>{% t {{list_item}} %}</li>
+                            {% endfor %}
+
+
+
+                    </ul>                         
+                     <a href="http://app.dabome.com/companyRegistration" target="_blank" class="btn btn-skin btn-radius btn-lg ">{% t main.sectionPricing.pricingtitle %}</a> 
+
+                    </div>
+
+               </div>
+                  {% endfor %}
+</div>

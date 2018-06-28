@@ -1,0 +1,19 @@
+<div class="">
+        <div id="buss-reg" class="process-step"> <span class="process-border"></span>
+           {% for howitworks_item in site.data.howitworks_section_content %}
+            <div id="{{howitworks_item.id}}" class="{{howitworks_item.class-step}}">
+                <div class="{{howitworks_item.class-icon}}"> <i class="{{howitworks_item.class-i}}"></i> </div>
+                <h5> {% t {{howitworks_item.header}} %} </h5>
+                   <p> {% t howitworks_item.headtitle %} </p>
+                   {% for howitworkslist_content in howitworks_item.list%}
+                    <ul class="list-unstyled">
+                        <li> <i class="{{howitworks_item.li-class-i}}"> </i> {% t {{howitworkslist_content}} %} </li>
+                    </ul>
+                    {% endfor %}
+                <h4 class="{{howitworks_item.class-text-danger}}">{% t howitworks_item.subtitle-subtitle %}</h4>
+                <p class="{{howitworks_item.class-p-green}}">{% t howitworks_item.para %}</p><a href="{{howitworks_item.url}}" target="_blank" class="{{howitworks_item.class-btn}}">{% t howitworks_item.atext %}</a>
+            </div>       
+          {% endfor %}
+        </div>
+        <!--steps-->
+    </div>

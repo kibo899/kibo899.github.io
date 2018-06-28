@@ -1,0 +1,30 @@
+<section id="download" class='gradient-light pt90 pb90'>
+                <div class='container'>
+                    <div class='row'>
+                        <div class='col-md-8 ml-auto mr-auto text-center'>
+                          {% for downloaditemitem in site.data.downloadtitle %}
+                            <h3 class='font300 section-title mb50'>{% t {{downloaditemitem.downloadapp}} %}</h3>                            
+                            <h2 class='pt20 text-dark-gray font300 h4 wow zoomInUp'><i class="mr-3 icon-download2"></i>{% t {{downloaditemitem.available}} %}</h2>   
+                                                    
+                            <div class="clearfix pt40"> 
+                               {% for downloaditem in site.data.downloadbtn_section %}
+                                 <a href="#" class="{{downloaditem.storebutton}}">
+                                    <img src="{{downloaditem.imgurl}}" alt="">
+                                    <span>{{downloaditem.dowform}}</span>
+                                    <h4>{{downloaditem.storeimg}}</h4>
+                                   
+                                </a>
+                                 {% endfor %}
+                                  
+                                <span><img src="images/arrow-up.png" alt="arrow"></span>
+                                
+                            </div>
+                            <span>{% t {{downloaditemitem.comingsoon}} %}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    
+                </div>
+              
+            </section>
+          

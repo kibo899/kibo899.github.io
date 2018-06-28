@@ -1,0 +1,1 @@
+Mi smo ambiciozan tim, sa nesvakidašnjim idejama!

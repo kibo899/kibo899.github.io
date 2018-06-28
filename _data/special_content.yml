@@ -1,0 +1,23 @@
+- name: Text message
+  icon: icon-chat green
+  header1: main.textMessageContent.textmessageheader1
+  header2: main.textMessageContent.smsheader2
+  text: main.textMessageContent.customerreceivetext
+  
+- name: QR code
+  icon: fa fa-qrcode yellow
+  header1: main.qrcodeContent.qrheader1
+  header2: main.qrcodeContent.qrcodeheader2
+  text: main.qrcodeContent.customerisverifiedtext
+  
+- name: Print promo poster, ads
+  icon: icon-picture red
+  header1: main.printPromoContent.printheader1
+  header2: main.printPromoContent.printheader2
+  text: main.printPromoContent.addinvisibletext
+  
+- name: Music Play list
+  icon: icon-mic green
+  header1: main.musicPlayListContent.musicheader1
+  header2: main.musicPlayListContent.musicheader2
+  text: main.musicPlayListContent.dabomeappcantext

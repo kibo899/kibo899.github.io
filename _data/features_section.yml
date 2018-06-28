@@ -1,0 +1,31 @@
+featuressectionTitle:
+ - featurestitle: main.featuresSectionTitle.featurestitle
+
+featuressectionLeft:     
+ - iclass: "icon-tag text-dabome-green"
+   h3item: main.feturesSectionLeft.h3item1
+   paragraph: main.feturesSectionLeft.paragraph1  
+ - iclass: "icon-earth text-dabome-orang"
+   h3item: main.feturesSectionLeft.h3item2
+   paragraph: main.feturesSectionLeft.paragraph2
+ - iclass: "icon-location text-dabome-red"
+   h3item: main.feturesSectionLeft.h3item3
+   paragraph: main.feturesSectionLeft.paragraph3
+
+
+featuresSectionImg:
+ - img: "images/dabome-app-14.png"
+ - img: "images/dabome-app-2.png"
+ - img: "images/dabome-app-3.png"
+ 
+ 
+featuressectionRight:     
+ - iclass: "icon-cog text-dabome-green"
+   h3item: main.feturesSectionRight.h3item1
+   paragraph: main.feturesSectionRight.paragraph1  
+ - iclass: "icon-briefcase text-dabome-orang"
+   h3item: main.feturesSectionRight.h3item2
+   paragraph: main.feturesSectionRight.paragraph2
+ - iclass: "icon-news text-dabome-red"
+   h3item: main.feturesSectionRight.h3item3
+   paragraph: main.feturesSectionRight.paragraph3

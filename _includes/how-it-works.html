@@ -1,0 +1,13 @@
+<div class="row">
+               {% for how_it_works_item in site.data.how_it_works_content %}
+                <div class="col-sm-6 col-md-3">
+                   
+                    <div class="{{how_it_works_item.class-process}}">
+                        <div class="{{how_it_works_item.icon-circle}}"><a href="{{how_it_works_item.url}}"><i class="{{how_it_works_item.class-i}}"></i></a></div>
+                        <h4>{% t {{how_it_works_item.header}} %}</h4> </div>
+                             
+                </div>
+           {% endfor %}
+                <!--process col-->
+                
+</div>

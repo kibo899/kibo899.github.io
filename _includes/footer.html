@@ -1,0 +1,51 @@
+<footer class="footer">
+        <div class="container">
+            <div class="row">
+               
+                <div class="col-sm-4 margin-b-30">
+                    <h2>{% t main.footerSection.dabomefootertitle %}</h2>
+                    <p> {% t main.footerSection.dabfotsec %} </p>
+                    <div class="space-20"></div> <a href="http://app.dabome.com/companyRegistration" target="_blank" class="btn btn-skin btn-radius btn-lg">{% t main.footerSection.registernowbtn %}</a>
+                </div>
+                
+                <div class="col-sm-4 margin-b-30">
+                    <h2>{% t main.contactSectionFooter.contactheaderfooter %}</h2>
+                    <h3>MNO d.o.o.</h3>
+                    <ul class="list-unstyled clearfix">
+                        <li class="clearfix"> <i class="fa fa-map-marker"></i> <span>Majke Jevrosime 28, Beograd</span> </li>
+                        <li class="clearfix"> <i class="fa fa-envelope-o"></i> <span>info@mnocompany.com</span> </li>
+                        <li class="clearfix"> <i class="fa fa-phone"></i> <span>+38169615029</span> </li>
+                    </ul>
+                </div>
+                <!--col4 end-->
+                
+                <div class="col-sm-4 margin-b-30">
+                    <h2>{% t main.footerSocialSection.socialsectiontitle %}</h2>
+                    <ul class="list-inline clearfix"> &nbsp;
+                                
+                            {% for footeritemitem in site.data.footer_section.followussection %}                    
+                            <li><a href="{{ footeritemitem.url }}">
+                             <i class="{{ footeritemitem.social }}"></i>
+                             </a>
+                             </li>
+                           {% endfor %}
+                      
+                    </ul>
+                </div>
+                <!--col4 end-->
+            </div>
+            <!--row end-->
+            
+          <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div class="footer-bottom">
+                        <ul class="list-inline">
+                            <li><a href='#home'>{% t main.footerBottomSection.homebottomtitle %}</a></li>
+                            <li><a href='#services'>{% t main.footerBottomSection.fetauresbottomtitle %}</a></li>
+                            <li><a href='terms.html'>{% t main.footerBottomSection.termsbottomtitle %}</a></li>
+                            <li><a href='privacy.html'>{% t main.footerBottomSection.privacybottomtitle %}</a></li>
+                        </ul> <span>&copy; Copyright 2017. MNO ltd</span> </div>
+                </div>
+            </div>
+        </div>
+    </footer>

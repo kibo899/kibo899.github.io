@@ -1,0 +1,131 @@
+    <section id="privacy">
+        <div class="container">
+ 
+            <div class="maia-article" role="article">
+              
+                <div class="maia-teleport" id="content"></div>
+                {% for privacyitem in site.data.privacy_section_mobapp.toc1 %}
+                <div id="pp-header">
+                   
+                    <h1> {% t privacyitem.title %} </h1>
+                    <p> {% t privacyitem.whenyouuse %} </p>
+                </div>
+                
+                <div id="pp-wrapper">
+                    <h1> {% t privacyitem.title1 %} </h1>
+                    <div id="pp-meta">
+                        
+                        
+                    </div>
+                    <p> {% t privacyitem.therearemany %} {% t privacyitem.ourprivacypolicy %} </p>                  
+                    <ul>
+                       {% for entry in privacyitem.subfolderitems %}
+                        <li>{% t entry %}</li>
+                        {% endfor %}
+                    </ul>
+                    
+                    <p>{% t privacyitem.wehavetrideto %}</p>
+                    {% endfor %}
+                    
+                    <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>
+                    
+                   
+                    {% for privacyitem in site.data.privacy_section_mobapp.toc6 %}
+                    <h2 id="infocollect">{% t privacyitem.title %}</h2>
+                    <p>{% t privacyitem.wecollectinf %}</p>
+                   {% endfor %}  
+                    
+                    
+                    {% if site.data.privacy_section_mobapp.toc2[0] %}
+                    {% for item in site.data.privacy_section_mobapp.toc2 %}
+                    <p>{% t item.wecollectList %}</p>
+                      {% if item.subfolderitems[0] %}
+                        <ul>
+                          {% for entry in item.subfolderitems %}
+                              <li><p>{% t entry.page %}</p>
+                                {% if entry.subsubfolderitems[0] %}
+                                  <ul>
+                                  {% for subentry in entry.subsubfolderitems %}
+                                      <li><p>{% t subentry.page %}</p> <p>{% t subentry.text %}</p></li>
+                                      <ul>
+                                       {% for subsubentry in subentry.subsubsubfolderitems %}
+                                        <li><p>{% t subsubentry %}</p></li>
+
+                                       {% endfor %}
+                                       </ul>
+                                  {% endfor %}
+                                  </ul>
+                                {% endif %}
+                              </li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                  
+                      {% for toc8item in site.data.privacy_section_mobapp.toc8 %} 
+                    <p>{% t toc8item %}</p>
+                    {% endfor %}            
+                     
+                    
+                    <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>
+                    
+                    {% for toc9item in site.data.privacy_section_mobapp.toc9 %}
+                    <h2 id="infouse">{% t toc9item.title %}</h2>
+                    <p>{% t toc9item.subtitle %}</p>
+                    {% endfor %}
+                   
+                    <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>                           
+                   
+                   
+                    {% if site.data.privacy_section_mobapp.toc12[0] %}
+                    {% for item in site.data.privacy_section_mobapp.toc12 %}
+                    <h2 id="nosharing">{% t item.title %}</h2>
+                    <p>{% t item.text1 %}</p>
+                    {% if item.subfolderitems[0] %}
+                    <ul>
+                       {% for entry in item.subfolderitems %}                                              
+                        <li>
+                            <p>{% t entry.page %}</p>
+                            <p>{% t entry.text %}</p>
+                            {% if entry.subsubfolderitems[0] %}
+                            <ul>
+                                {% for subentry in entry.subsubfolderitems %}
+                                <li>{% t subentry.page %}</li>
+                                {% endfor %}                            
+                            </ul>         
+                        
+                             {% endif %}
+                        </li>
+                        
+                        {% endfor %}
+                    </ul>
+                    
+                    {% endif %}
+                        <p>{% t item.text2 %}</p>
+                        <p>{% t item.text3 %}</p>
+                {% endfor %}
+            {% endif %}
+                    
+                    
+                    <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>
+                    
+                    {% for item in site.data.privacy_section_mobapp.toc13 %}
+                    <h2 id="infosecurity">{% t item.title %}</h2>
+                    <p>{% t item.text %}</p>
+                    
+                    <ul>
+                        {% for entry in item.subfolderitems %}
+                        <li>{% t entry %}</li> 
+                        {% endfor %}                      
+                    </ul>
+                    
+                    <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>
+                    {% endfor %}                   
+                                        
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </section>

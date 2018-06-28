@@ -1,0 +1,17 @@
+<section id="privacy">
+        <div class="container">
+            <div class="maia-article" role="article">
+                <div class="maia-teleport" id="content"></div>
+                {% for item in site.data.terms_section_mobapp.toc00 %}
+                
+                <h1>{% t item.title1 %}</h1>
+                
+                <h2>{% t item.title %}</h2>
+                
+                <p>{% t item.text %}</p>
+                
+                {% endfor %}
+                <div class="pp-top-link"><a class="gweb-smoothscroll-control" href="#content">{% t main.toc13List.btnbacktotop %}</a></div>
+            </div>
+        </div>
+    </section>

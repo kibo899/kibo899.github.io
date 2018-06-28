@@ -1,0 +1,12 @@
+homeSectionImg:
+ - img: "images/dabome-app-13.png"
+ - img: "images/dabome-app-4.png"
+ - img: "images/dabome-app-11.png"
+ 
+homeNavbarCollapse:
+ - navbarcollaps: main.navbarSection.home
+   url: "#home"
+ - navbarcollaps: main.navbarSection.features
+   url: "#features"
+ - navbarcollaps: main.navbarSection.download
+   url: "#download"

@@ -1,0 +1,35 @@
+<div class="bg-white">
+            <div class="pt90 container pb40">
+             
+                <div class="row align-items-center">
+                     
+                    <div class="col-md-6 mr-auto mb40">                       
+                        <h3 class="font300 h2">{% t main.modernLoyaltySectionItemTitle.modernloyaltysystem %}</h3>
+                         {% for bgwhiteitem in site.data.modernloyalty_section_mobapp.modernloyaltySection %}
+                        <p>{% t bgwhiteitem.paragraph %}</p> 
+                             {% endfor %}                                       
+                    </div>
+                    
+                    <div class="col-md-6 mb40 wow fadeInUp" data-wow-delay=".15s">
+                         <div class="col-lg-6 mr-auto ml-auto">
+                        <div class="carousel-mobile-slider">  
+                            <div class="mobile-device">
+                                <img src="images/slide-phone.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="owl-carousel owl-theme owl-phone carousel-iphone">    
+                                <div class="item">
+                                    <img src="images/dabome_guide.gif" alt="">
+                                </div> 
+                                                              
+                            </div>
+                            
+                        </div>
+                        
+                    </div>
+                   
+                    </div>
+                     
+                </div>
+               
+            </div>
+        </div>

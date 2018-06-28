@@ -1,0 +1,41 @@
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 center-title"> <i class="icon-envelope"></i>
+                    <h2> {% t main.sectionContact.contacttitle %} </h2>
+                    <p> {% t main.sectionContact.contactsubtitle %} </p>
+                </div>
+            </div>
+            <!--center title row end-->
+               <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <form method="post" action="#" enctype="text/plain" class="assan-contact">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <div class="col-sm-12 margin-b-20">
+                                        <input type="text" name="name" class="form-control" placeholder="{% t main.sectionContact.nametitle %}" /> </div>
+                                    <div class="col-sm-12 margin-b-20">
+                                        <input type="text" name="email" class="form-control" placeholder="{% t main.sectionContact.emailaddresstitle %}" /> </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <textarea type="text" name="message" class="form-control margin-b-20" rows="5" placeholder="{% t main.sectionContact.messagetitle %}"></textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-sm-offset-3 text-center">
+                                <div class="data-status animated fadeInDown"></div>
+                                <!-- data submit status -->
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 text-center">
+                                <button type="submit" name="submit" class="btn btn-lg btn-skin btn-radius margin-b-20">{% t main.sectionContact.sendbutton %}</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+</section>

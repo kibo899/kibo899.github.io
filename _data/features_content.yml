@@ -1,0 +1,62 @@
+
+- name: No initial investment
+  data-wow-delay: 0.1s
+  class-i: icon-wallet green
+  header: main.featuresHeader.noinitialinvestment
+  paragraph: main.featuresParagraph.itisenough
+  
+  
+- name: Easy to use
+  data-wow-delay: 0.2s
+  class-i: icon-pencil yellow
+  header: main.featuresHeader.easytouse
+  paragraph: main.featuresParagraph.trainingforemployees
+    
+    
+- name: Social networks
+  data-wow-delay: 0.3s
+  class-i: icon-facebook red
+  header: main.featuresHeader.socialnetworks
+  paragraph: main.featuresParagraph.dabomehasitsown
+  
+  
+- name: Cooperation with other businesses
+  data-wow-delay: 0.1s
+  class-i: icon-wallet green
+  header: main.featuresHeader.cooperation
+  paragraph: main.featuresParagraph.arrangeamutual
+  
+  
+- name: Customer care
+  data-wow-delay: 0.2s
+  class-i: icon-pencil yellow
+  header: main.featuresHeader.customercare
+  paragraph: main.featuresParagraph.dabomegets
+    
+    
+- name: Fast user verification
+  data-wow-delay: 0.3s
+  class-i: icon-facebook red
+  header: main.featuresHeader.fastuser
+  paragraph: main.featuresParagraph.whenacustomercomes
+  
+  
+- name: Maximum safe
+  data-wow-delay: 0.1s
+  class-i: icon-wallet green
+  header: main.featuresHeader.maximumsafe
+  paragraph: main.featuresParagraph.allinformationabout
+  
+  
+- name: Customer targeting
+  data-wow-delay: 0.2s
+  class-i: icon-pencil yellow
+  header: main.featuresHeader.customertargeting
+  paragraph: main.featuresParagraph.dabomeremindsits
+    
+    
+- name: Statistics and analasys
+  data-wow-delay: 0.3s
+  class-i: icon-facebook red
+  header: main.featuresHeader.statisticsanalasys
+  paragraph: main.featuresParagraph.seehowmanyusers

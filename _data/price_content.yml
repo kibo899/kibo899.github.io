@@ -1,0 +1,58 @@
+- name: Start plan
+  price-box: price-box text-center wow animated fadeInUp
+  header: main.startPlan.startplanheader
+  class-price: main.startPlan.classpricestartplan
+# A list of pricing
+  list:
+   - main.startPlanListing.maximumone
+   - main.startPlanListing.maximum100customers
+   - main.startPlanListing.maximum2employees
+   - main.startPlanListing.alldiscouttypes
+   - main.startPlanListing.checkinwithencoded
+   - main.startPlanListing.basicreports
+   - main.startPlanListing.2freeannouncment
+   - main.startPlanListing.2freesmart
+   - main.startPlanListing.alldabomemembers
+   - main.startPlanListing.cooperationwithlocal
+   - main.startPlanListing.minimum12month
+
+- name: Standard plan
+  price-box: price-box text-center wow animated fadeInUp green
+  header: main.standardPlan.standardplanheader
+  class-price: main.standardPlan.classpricestandardplan
+# A list of pricing
+  list:
+   - main.standardPlanListing.onelocationincluded
+   - main.standardPlanListing.eachadditionallocation
+   - main.standardPlanListing.unlimitedemployees
+   - main.standardPlanListing.alldiscouttypes
+   - main.standardPlanListing.checkinwith
+   - main.standardPlanListing.basicreports
+   - main.standardPlanListing.2additional
+   - main.standardPlanListing.4freeannouncments
+   - main.standardPlanListing.8freesmart
+   - main.standardPlanListing.alldabomemembers
+   - main.standardPlanListing.cooperationwithlocal
+   - main.standardPlanListing.minimum12
+   - main.standardPlanListing.30discount
+
+- name: Enterprises
+  price-box: price-box text-center wow animated fadeInUp green
+  header: main.enterprisesPlan.enterprisesheader
+  class-price: main.enterprisesPlan.classpriceenterprises
+# A list of pricing
+  list:
+  - main.enterprisesListing.unlimitedlocations
+  - main.enterprisesListing.unlimitedemployees
+  - main.enterprisesListing.alldiscouttypesincluded
+  - main.enterprisesListing.checkwithencodedprint
+  - main.enterprisesListing.basicreportsincluded
+  - main.enterprisesListing.additionalreportson
+  - main.enterprisesListing.8freeannouncmentofnews
+  - main.enterprisesListing.48freesmartcoupons
+  - main.enterprisesListing.aldabomemembersincluded
+  - main.enterprisesListing.cooperationwith
+  - main.enterprisesListing.dabomeapiavailable
+  - main.enterprisesListing.integrationwith
+  - main.enterprisesListing.whitelabel
+  - main.enterprisesListing.minimum12monthcontract

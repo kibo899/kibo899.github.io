@@ -1,0 +1,18 @@
+        <section id="screenshots" class="bg-faded">
+            <div class="container pt90 pb90">
+                 {% for screenshotsappitem in site.data.application_section.applicationtitle %}
+                    <h3 class="section-title mb70">{% t screenshotsappitem.apptitle %}</h3>
+                   {% endfor %}
+                   
+                    <amp-carousel class="owl-carousel owl-theme carousel-shots" height="410" width="232">
+                           {% for screenshotsitem in site.data.application_section.name %}
+                          <div class="item">
+                         
+                              <amp-img src="{{screenshotsitem.url}}" alt="" class="img-fluid" height="410" width="232"></amp-img>
+                        
+                        </div> 
+                              {% endfor %}                                          
+                </amp-carousel>
+                      
+            </div>
+        </section>

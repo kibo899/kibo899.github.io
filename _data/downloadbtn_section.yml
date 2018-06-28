@@ -1,0 +1,11 @@
+- name: clearfix1   
+  storebutton: store-button android-btn
+  imgurl: images/android-store.png
+  dowform: Download from 
+  storeimg: Android Store
+  
+- name: clearfix2   
+  storebutton: store-button app-store-btn
+  imgurl: images/app-store.png
+  dowform: Download from
+  storeimg: App Store

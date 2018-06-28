@@ -1,0 +1,58 @@
+        <section id="features">
+            <div class="container pt90 pb50">
+               {% for featuresitemtitle in site.data.features_section.featuressectionTitle %}
+                <div class="section_heading">
+                    <h3 class="mb70">{% t featuresitemtitle.featurestitle %}</h3>
+                    {% endfor %}
+                    <hr class="separator">
+                </div>
+               <div class="row">
+                <div class="col-md-4 mb40 wow fadeInUp" data-wow-delay=".1s">
+                    <div class="feature-icon cleafix">
+                       {% for featuresitemleft in site.data.features_section.featuressectionLeft %}
+                        <i class="{{featuresitemleft.iclass}}"></i>                        
+                        <div class="oHidden">
+                            <h3>{% t featuresitemleft.h3item %}</h3>
+                            <p>{% t featuresitemleft.paragraph %}</p>
+                        </div> 
+                        {% endfor %}
+                    </div>
+                  
+                    <!--feature right-->
+                    <!--<div class="clearfix"></div>-->
+                </div>
+                <div class="col-md-4 mr-auto ml-auto">
+                    <div class="carousel-mobile-slider">  
+                            <div class="mobile-device">
+                                <img src="images/slide-phone.png" alt="" class="img-fluid">
+                            </div>
+                            
+                            <div class="owl-carousel owl-theme owl-phone carousel-iphone"> 
+                                {% for featuresitemimg in site.data.features_section.featuresSectionImg %}
+                                <div class="item">
+                                  
+                                    <img src="{{ featuresitemimg.img }}" alt="">
+                                 
+                                </div>
+                                  {% endfor %}                      
+                            </div>
+                          
+                        </div>
+                </div>
+                <div class="col-md-4 mb40 wow fadeInUp" data-wow-delay=".15s">
+                    <div class="feature-icon cleafix">
+                       {% for featuresitemright in site.data.features_section.featuressectionRight %}                        
+                            <i class="{{featuresitemright.iclass}}"></i>                        
+                        <div class="oHidden">
+                            <h3>{% t featuresitemright.h3item %}</h3>
+                            <p>{% t featuresitemright.paragraph %}
+                            </p>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <!--feature right-->
+                    <!--<div class="clearfix"></div>-->
+                </div>
+            </div>
+            </div>
+        </section>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+{% include head.html %}
+    <!--footer end-->
+<body data-spy="scroll">
+    <!-- Static navbar -->
+    {% include navbar.html %}
+    <!--navigation end here-->
+    <!--header end-->
+    <!--home section start here-->
+    {% include home_content.html %}
+    <!--home section end here-->
+    <section id="features">
+        <div class="container">
+            {% include loyalty-platform.html %}
+            <!--side by side left right features row end, use the class .vertical-align-child .aside-feature-row into row-->
+        </div>
+    </section>
+    <!--section features end-->
+     <!--services-->
+    <section id="services" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 center-title"><h2>{% t main.featuresTitle.featurescontent %}</h2></div>
+            </div>
+            <!--center title row end-->
+            {% include features.html %}
+        </div>
+    </section>
+    <!--end services-->
+    <section id="otherFeatures" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 center-title"> <i class="icon-bike"></i>
+                    <h2>{% t main.sectionOtherFeatures.advantagesdabome %}</h2>
+                    <p>{% t main.sectionOtherFeatures.byusingdabome %}</p>
+                </div>
+            </div>
+            <!--center title row end-->
+        </div>
+        {% include benefits.html %}
+    </section>
+    <!--how does it work process start-->
+    <section class="process services-section" id="howitworks">
+        <div class="container">
+            <div class="center-title"> <span class="center-line"></span>
+                <h1> {% t main.sectionProcessServices.howitworks %} </h1> </div>
+            {% include how-it-works.html %}
+        </div>
+    </section>
+    {% include how-it-works-section.html %}
+    <!--how does it work process end-->
+    <!--subscribe-->
+    <section id="verif" class="verification">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 center-title"> <i class="icon-gears"></i>
+                    <h2>{% t main.sectionverification.customerverification %}</h2>
+                    <p>{% t main.sectionverification.nomoreplasticcards %}</p>
+                </div>
+            </div>
+            {% include special-features.html %}
+            <!--center title row end-->
+        </div>
+    </section>
+    <!--end subscribe-->
+    <!--pricing start-->
+    <section id="pricing" class="pricing-section">
+        <div class="container">
+            <div class="row">
+                <div class=" center-title"> <i class="icon-wallet"></i>
+                    <h2>{% t main.sectionPricing.pricingtitle %}</h2>
+                    <p></p>
+                </div>
+            </div>
+            <!--center title row end-->
+            {% include price.html %}
+            <!--pricing tables 1 simple row end-->
+            <div class="row">
+                <div class=" center-title red">
+                    <p> * {% t main.starPricing.encodedprint %} </p>
+                    <h2 class="red">{% t main.specialPromotionTitle.specialpromotion %}</h2></div>
+            </div>
+        </div>
+    </section>
+    <!--pricing end-->
+    <!--subscribe-->
+            {% include contact.html %}
+    <!--end subscribe-->
+    <!--footer start-->
+    {% include footer.html %}
+    <!--footer end-->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="js/jquery-migrate.min.js" type="text/javascript"></script>
+    <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+    <script src="js/jquery.backstretch.min.js" type="text/javascript"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="bower_components/wow/dist/wow.min.js"></script>
+    <script src="js/rot-text-us.js" type="text/javascript"></script>
+    <script src="bower_components/lightbox2/dist/js/lightbox.min.js" type="text/javascript"></script>
+    <script src="owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="js/modernizr.custom.97074.js" type="text/javascript"></script>
+    <script src="js/parallax.min.js" type="text/javascript"></script>
+    <script src="js/custom.js" type="text/javascript"></script>
+    <!-- Vimeo video API -->
+    <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
+    <script type="text/javascript" src="js/vimeo.js"></script>
+    <!-- contact form -->
+    <script type="text/javascript" src="contact_form/contact.js"></script>    
+</body>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white navbar-transparent-light navbar-sticky">
+            <div class="container">
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarlanding" aria-controls="navbarlanding" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="http://localhost:4000/">
+                    <amp-img src="images/logo.png" class="img-responsive start-logo" alt="logo" height="42" width="350"></amp-img>
+                </a>
+
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile-app-navbar" aria-controls="mobile-app-navbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="mobile-app-navbar">
+                    <ul class="navbar-nav ml-auto">
+                       {% for collapsenavbar in site.data.home_section_mobapp.homeNavbarCollapse %}
+                        <li class="nav-item">
+                            <a class="nav-link active" data-scroll href="{{collapsenavbar.url}}">{% t collapsenavbar.navbarcollaps %}</a>
+                            {%  endfor %}
+                        </li>
+                        
+                         <li class="nav-item dropdown">
+                            <span class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <img src="images/{% t main.navbarSection.flag %}" alt="English"> {% t main.navbarSection.language %}</span>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            
+                            {% for lang in site.languageNames %}
+                             {% if lang[0] == site.lang %} {% continue %} {% endif %}
+                             
+                             {% if lang[0] != 'en' %}                       
+                              <a href="{{ site.baseurl_root }}/{{ lang[0]}}/index-mobileapp.html" class="dropdown-item"> <img src="images/rs.png" alt="English"> {{ lang[1] }}</a>
+                              
+                              {% else %}
+                              
+                              <a href="{{ site.baseurl_root }}/index-mobileapp.html" class="dropdown-item"> <img src="images/us.png" alt="English"> {{ lang[1] }}</a>    
+                              
+                              {% endif %}
+                              {% endfor %}   
+                                                                                                                                                
+                            </div>
+                        </li>                      
+                    </ul>
+                </div>
+            </div>
+        </nav>

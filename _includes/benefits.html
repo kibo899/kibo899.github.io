@@ -1,0 +1,70 @@
+<div class="container">
+            <div class="row">
+               
+                <div class="col-sm-8 col-sm-offset-2">
+                   
+                    <ul class="list-inline text-center tabs-navigation" role="tablist">
+                       {% for benefitsitem in site.data.benefits_content %}
+                        <li role="presentation" class="{{benefitsitem.active}}"> <a href="{{benefitsitem.url}}" aria-controls="{{benefitsitem.controls}}" role="tab" data-toggle="tab" aria-expanded="true"><span><i class="{{benefitsitem.class-i}}"></i></span>{% t {{benefitsitem.title}} %}</a> </li>
+                        
+                        <!--<li role="presentation" class=""> <a href="#discounts" aria-controls="discounts" role="tab" data-toggle="tab" aria-expanded="false"><span><i class="icon-pricetags yellow"></i></span>Discounts</a> </li>
+                        <li role="presentation" class=""> <a href="#socnetw" aria-controls="socnetw" role="tab" data-toggle="tab" aria-expanded="false"><span><i class="icon-facebook red"></i></span>Social networks</a> </li>
+                        <li role="presentation" class=""> <a href="#statreport" aria-controls="statreport" role="tab" data-toggle="tab" aria-expanded="false"><span><i class="icon-piechart green"></i></span>Reports</a> </li>-->
+                         {% endfor %}
+                    </ul>
+                   
+                </div>
+            </div>
+            <!--tabs header row end-->
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="tab-content service-tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="cooperation">
+                            <div class="row vertical-align-child aside-feature-row">
+                                <div class="col-sm-6 margin-b-30 wow animated fadeInLeft" data-wow-delay="0.1s">
+                                <img src="images/cooperation.jpg" class="img-responsive" alt="cross merchant loyalty"> </div>
+                                <div class="col-sm-5 col-sm-offset-1 wow animated fadeInRight" data-wow-delay="0.2s">
+                                    <h3> {% t main.cooperationList.collaboratewith %} </h3>
+                                    <h4> {% t main.cooperationList.inagreementwith %} </h4>
+                                    <p> {% t main.cooperationList.arrangeamutual %} </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tab content end-->
+                        <div role="tabpanel" class="tab-pane" id="discounts">
+                            <div class="row vertical-align-child aside-feature-row">
+                                <div class="col-sm-5 wow animated fadeInLeft margin-b-30" data-wow-delay="0.3s">
+                                    <h3> {% t main.discountsList.createpromotions %} </h3>
+                                    <p> {% t main.discountsList.dabomereminds %} </p>
+                                    
+                                    
+                                </div>
+                                <div class="col-sm-6 col-sm-offset-1 wow animated fadeInRight" data-wow-delay="0.4s"> <img src="images/shoppingbags.jpg" class="img-responsive" alt="shopping discounts"> </div>
+                            </div>
+                        </div>
+                        <!--tab content end-->
+                        <div role="tabpanel" class="tab-pane" id="socnetw">
+                            <div class="row vertical-align-child aside-feature-row">
+                                <div class="col-sm-6 margin-b-30 wow animated fadeInLeft" data-wow-delay="0.1s"> <img src="images/socnet.png" class="img-responsive" alt="social networks"> </div>
+                                <div class="col-sm-5 col-sm-offset-1 wow animated fadeInRight" data-wow-delay="0.2s">
+                                    <h3> {% t main.socialnetworksList.socialnetworks %} </h3>
+                                    <p> {% t main.socialnetworksList.recommendation %} </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tab content end-->
+                        <div role="tabpanel" class="tab-pane" id="statreport">
+                            <div class="row vertical-align-child aside-feature-row">
+                                <div class="col-sm-5 col-sm-offset-1 wow animated fadeInRight" data-wow-delay="0.2s">
+                                    <h3> {% t main.reportsList.statisticsanalysis %} </h3>
+                                    <h4> {% t main.reportsList.improvingbusiness %} </h4>
+                                    <p> {% t main.reportsList.seehowmany %} </p>
+                                </div>
+                                <div class="col-sm-6 margin-b-30 wow animated fadeInLeft" data-wow-delay="0.1s"> <img src="images/reports.jpg" class="img-responsive" alt="analytics"> </div>
+                            </div>
+                        </div>
+                        <!--tab content end-->
+                    </div>
+                </div>
+            </div>
+        </div>

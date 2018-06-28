@@ -1,0 +1,13 @@
+howtosection: 
+ - iclass: "icon-tag text-dabome-green"
+   h4class: "text-dabome-green"
+   h4item: main.howToSection.h4item1
+   paragraph: main.howToSection.paragraph1  
+ - iclass: "icon-credit-card text-dabome-orang"
+   h4class: "text-dabome-orang"
+   h4item: main.howToSection.h4item2
+   paragraph: main.howToSection.paragraph2
+ - iclass: "icon-gift text-dabome-red"
+   h4class: "text-dabome-red"
+   h4item: main.howToSection.h4item3
+   paragraph: main.howToSection.paragraph3

@@ -1,0 +1,33 @@
+followussection:
+ - followus: main.footerSectionMobApp.followus
+   list1:
+   - icon: social-icon si-dark si-facebook si-dark-round
+     social: fa fa-facebook
+     url: "https://www.facebook.com/mnoserbia/"
+   - icon: social-icon si-dark si-twitter si-dark-round
+     social: fa fa-twitter
+     url: "https://twitter.com/mimarko"
+   - icon: social-icon si-dark si-linkedin si-dark-round
+     social: fa fa-linkedin
+     url: "https://www.linkedin.com/company/mnocompany/"  
+ 
+ 
+contactsection:     
+ - h5item: main.contactSectionMobApp.callus
+   paragraph: main.contactSectionMobApp.paragraph  
+ - h5item: main.contactSectionMobApp.mailus
+   paragraph: main.contactSectionMobApp.paragraph1 
+ - h5item: main.contactSectionMobApp.findus
+   paragraph: main.contactSectionMobApp.paragraph2
+   
+   
+   
+footernavbar:
+ - navbarfooter: main.footernavbar.home
+   url: "#home"
+ - navbarfooter: main.footernavbar.features
+   url: "#features"
+ - navbarfooter: main.footernavbar.terms
+   url: "terms-mobileapp.html"
+ - navbarfooter: main.footernavbar.privacy
+   url: "privacy-mobileapp.html"

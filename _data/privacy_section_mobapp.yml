@@ -1,0 +1,98 @@
+toc1:
+  - title: main.privacycontent.welcometothedabome
+  - whenyouuse: main.privacycontent.whenyouuse
+  - title1: main.privacycontent.title1
+  - therearemany: main.privacycontent.therearemany
+  - ourprivacypolicy: main.privacycontent.ourprivacypolicy
+  - wehavetrideto: main.privacycontent.wehavetrideto
+    subfolderitems:
+      - main.toc1List.page1
+      - main.toc1List.page2
+      - main.toc1List.page3
+toc6:
+  - title: main.privacycontentToc6.informationwecollecttitle
+  - wecollectinf: main.privacycontentToc6.wecollectinf
+toc2:
+  - wecollectList: main.toc6List.wecollectfollowing
+    subfolderitems:
+      - page: main.toc6List.page1
+      - page: main.toc6List.page2
+        subsubfolderitems:
+          - page: main.toc6SubList.page1
+            text: main.toc6SubList.text1
+          - page: main.toc6SubList.page2
+            text: main.toc6SubList.text2
+            subsubsubfolderitems:
+              - main.toc6SubSubList.page1
+              - main.toc6SubSubList.page2
+              - main.toc6SubSubList.page3
+              - main.toc6SubSubList.page4
+          - page: main.toc6SubList.page3
+            text: main.toc6SubList.text3
+          - page: main.toc6SubList.page4
+            text: main.toc6SubList.text4
+          - page: main.toc6SubList.page5
+            text: main.toc6SubList.text5
+          - page: main.toc6SubList.page6
+            text: main.toc6SubList.text6 
+toc8:
+  - main.toc8List.formoreinformation
+toc9:
+  - title: main.toc9List.title1
+  - subtitle: main.toc9List.subtitle1
+  - subtitle: main.toc9List.subtitle2
+  - subtitle: main.toc9List.subtitle3
+  - subtitle: main.toc9List.subtitle4
+  - subtitle: main.toc9List.subtitle5
+  - subtitle: main.toc9List.subtitle6
+  - subtitle: main.toc9List.subtitle7
+  - title: main.toc9List.title2
+  - subtitle: main.toc9List.subtitle8
+  - subtitle: main.toc9List.subtitle9
+  - title: main.toc9List.title3
+  - subtitle: main.toc9List.subtitle10
+  - title: main.toc9List.title4
+  - subtitle: main.toc9List.subtitle11
+  - subtitle: main.toc9List.subtitle12
+  - subtitle: main.toc9List.subtitle13
+toc12: 
+  - title: main.toc12list.title
+  - text1: main.toc12list.text1
+    subfolderitems:
+      - page: main.toc12List2.page1
+        text: main.toc12List2.text1
+      - page: main.toc12List2.page2
+        text: main.toc12List2.text2
+        subsubfolderitems:
+          - page: main.toc12Lisst3.page1
+          - page: main.toc12Lisst3.page2
+          - page: main.toc12Lisst3.page3
+          - page: main.toc12Lisst3.page4
+          - page: main.toc12Lisst3.page5
+        text1: main.toc12Lisst2.text5
+      - page: main.toc12List2.page3
+        text: main.toc12List2.text3
+      - page: main.toc12List2.page4
+        text: main.toc12List2.text4 
+        subsubfolderitems:
+            - page: main.toc12Lisst4.page1
+            - page: main.toc12Lisst4.page2
+            - page: main.toc12Lisst4.page3
+            - page: main.toc12Lisst4.page4
+  - text2: main.toc12list.text2
+  - text3: main.toc12list.text3
+toc13:
+  - title: main.toc13List.title1
+    text: main.toc13List.text1
+    subfolderitems:
+      - main.toc13List2.list1
+      - main.toc13List2.list2
+      - main.toc13List2.list3
+  - title: main.toc13List.title2
+    text: main.toc13List.text2
+    text: main.toc13List.text3
+  - title: main.toc13List.title3
+    text: main.toc13List.text4
+  - title: main.toc13List.title4
+    text: main.toc13List.text5
+  

@@ -1,0 +1,36 @@
+        <footer class="footer" id="footerfooter">
+            <div class="container">
+                <div class="row">
+                    {% for footeritem in site.data.footer_section_mobapp.followussection %}
+                    <div class="social-buttons col-lg-3 mb30">
+                        <h5 class=" mb20">{% t footeritem.followus %}</h5>
+                        <span>      
+                            {% for footeritemitem in footeritem.list1 %}                    
+                            <a href="{{ footeritemitem.url }}" class="{{ footeritemitem.icon }}">                                                                 
+                             <i class="{{ footeritemitem.social }}"></i>
+                             <i class="{{ footeritemitem.social }}"></i>                                            
+                            </a>
+                           {% endfor %}
+                        </span>
+                    </div>
+                     {% endfor %}
+                     {% for contactitem in site.data.footer_section_mobapp.contactsection %}
+                    <div class='col-lg-3'>
+                        <h5 class=" mb20">{% t contactitem.h5item %}</h5> 
+                        <p class='lead'>{% t contactitem.paragraph %}</p>
+                    </div>                    
+                      {% endfor %} 
+                </div>
+                <hr class="mb70">
+                <div class="col-sm-12 text-center">
+                    <div class="footer-bottom">
+                       
+                        <ul class="list-inline">
+                           {% for footerfooternav in site.data.footer_section_mobapp.footernavbar %}
+                            <li><a href='{{footerfooternav.url}}'>{% t footerfooternav.navbarfooter %}</a></li>                          
+                           {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
