@@ -13,6 +13,8 @@ main:
     flag: rs.png
     
 # Dabomewebsite translated text start here
+ scriptRootTex:
+    link: "js/rot-text.js"
     
  sectionHome:
     dabomeplatformsh: Dabome platforma
